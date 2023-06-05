@@ -1,11 +1,13 @@
 import React from "react"
 import { ImageContainer, StyledHeader } from "./styled"
-import logo from "../../indie_logo.png"
+import logo from "../../images/indie_logo.png"
 import { IconButton } from "../Button/IconButton"
 import { EnvironmentTwoTone, SearchOutlined } from "@ant-design/icons"
 import { Input } from "../Input"
 import { DatePicker } from "../DatePicker"
 import { Image } from "antd"
+import { useSelector } from "react-redux"
+import { selectArrival, selectDeparture } from "../../features/search/selectors"
 
 type Props = {
   datePicker?: boolean
@@ -27,12 +29,6 @@ export const Header = ({ imgLogo, input, datePicker, buttonText }: Props) => {
           <>
             <Input
               clear
-              textTitle="Departure"
-              iconPrefix={<EnvironmentTwoTone twoToneColor="#088808" />}
-            />
-            <Input
-              clear
-              textTitle="Arrival"
               iconPrefix={<EnvironmentTwoTone twoToneColor="#088808" />}
             />
           </>

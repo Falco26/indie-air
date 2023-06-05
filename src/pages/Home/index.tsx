@@ -1,5 +1,6 @@
 import React from "react"
 import { Map } from "../../components/Map"
+import { filteredAirports } from "../../API/airports"
 
 export const Home = () => {
   return (
@@ -11,7 +12,7 @@ export const Home = () => {
         alignContent: "center",
       }}
     >
-      <Map />
+      <Map airportMarkers={filteredAirports} />
     </div>
   )
 }

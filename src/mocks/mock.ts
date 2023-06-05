@@ -63,4 +63,28 @@ export const airports = [
       longitude: 16.569722,
     },
   },
+  {
+    name: "Madrid Barajas Airport",
+    iata: "MAD",
+    coordinates: {
+      latitude: 40.493556,
+      longitude: -3.566764,
+    },
+  },
+  {
+    name: "Munich Airport",
+    iata: "MUC",
+    coordinates: {
+      latitude: 48.353783,
+      longitude: 11.786086,
+    },
+  },
+  {
+    name: "Copenhagen Airport",
+    iata: "CPH",
+    coordinates: {
+      latitude: 55.618056,
+      longitude: 12.650556,
+    },
+  },
 ]
