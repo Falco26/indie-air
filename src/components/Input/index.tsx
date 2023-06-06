@@ -8,7 +8,11 @@ import {
   EnvironmentTwoTone,
 } from "@ant-design/icons"
 import useSelection from "antd/es/table/hooks/useSelection"
-import { selectArrival, selectDeparture } from "../../features/search/selectors"
+import {
+  selectArrival,
+  selectDeparture,
+  selectDepartureIATA,
+} from "../../features/search/selectors"
 import { useDispatch, useSelector } from "react-redux"
 import { searchActions } from "../../features/search/reducer"
 import { IconButton } from "../Button/IconButton"
@@ -19,27 +23,17 @@ type Props = {
   iconPrefix?: React.ReactNode
 }
 
-export const Input = ({ clear, textTitle, iconPrefix }: Props) => {
+export const Input = ({ clear, iconPrefix }: Props) => {
   const dispatch = useDispatch()
   const departure = useSelector(selectDeparture)
   const arrival = useSelector(selectArrival)
 
-  const handleDepartureRemove = (
-    e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>
-  ) => {
-    console.log(e.target.value)
+  const handleDepartureRemove = () => {
     dispatch(searchActions.removeDeparture())
   }
-  const handleArrivalRemove = (
-    e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>
-  ) => {
-    console.log(e.target.value)
+  const handleArrivalRemove = () => {
     dispatch(searchActions.removeArrival())
   }
-
-  console.log(departure, "departure")
-
-  console.log(arrival, "arrival")
 
   return (
     <>

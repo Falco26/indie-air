@@ -23,7 +23,7 @@ export const Map = ({ airportMarkers }: Props) => {
   )
 
   const handleClick = useCallback(
-    (city: string) => dispatch(searchActions.insertDepart(city)),
+    (airport: AirportDto) => dispatch(searchActions.insertDepart(airport)),
     [dispatch]
   )
   const pins = useMemo(
@@ -37,15 +37,15 @@ export const Map = ({ airportMarkers }: Props) => {
             style={{
               cursor: "pointer",
             }}
-            onClick={() => handleClick(airport.name)}
+            onClick={() => handleClick(airport)}
           >
             <img
               onMouseEnter={(e) => handleOpenPopUp(e, airport)}
-              onMouseLeave={(e) => setPopupInfo(undefined)}
+              onMouseOut={(e) => setPopupInfo(undefined)}
               src="https://icons.iconarchive.com/icons/martz90/circle-addon2/128/plane-flight-icon.png"
               style={{
-                width: "35px",
-                height: "35px",
+                width: "25px",
+                height: "25px",
               }}
               alt="marker icon"
             />

@@ -1,5 +1,29 @@
 [
    {
+      "name":"Paris Charles de Gaulle Airport",
+      "iata_code":"CDG",
+      "icao_code":"LFPG",
+      "lat":49.009592,
+      "lng":2.555675,
+      "country_code":"FR"
+   },
+   {
+      "name":"Adolfo Suarez Madrid-Barajas Airport",
+      "iata_code":"MAD",
+      "icao_code":"LEMD",
+      "lat":40.484669,
+      "lng":-3.565533,
+      "country_code":"ES"
+   },
+   {
+      "name":"Barcelona-El Prat Airport",
+      "iata_code":"BCN",
+      "icao_code":"LEBL",
+      "lat":41.299069,
+      "lng":2.077617,
+      "country_code":"ES"
+   },
+   {
       "name":"Leonardo da Vinci-Fiumicino Airport",
       "iata_code":"FCO",
       "icao_code":"LIRF",
@@ -8,12 +32,84 @@
       "country_code":"IT"
    },
    {
+      "name":"Paris Orly Airport",
+      "iata_code":"ORY",
+      "icao_code":"LFPO",
+      "lat":48.725632,
+      "lng":2.366195,
+      "country_code":"FR"
+   },
+   {
+      "name":"Palma de Mallorca Airport",
+      "iata_code":"PMI",
+      "icao_code":"LEPA",
+      "lat":39.549785,
+      "lng":2.734176,
+      "country_code":"ES"
+   },
+   {
       "name":"Milano Malpensa Airport",
       "iata_code":"MXP",
       "icao_code":"LIMC",
       "lat":45.628515,
       "lng":8.71852,
       "country_code":"IT"
+   },
+   {
+      "name":"Nice Cote d'Azur International Airport",
+      "iata_code":"NCE",
+      "icao_code":"LFMN",
+      "lat":43.660536,
+      "lng":7.209657,
+      "country_code":"FR"
+   },
+   {
+      "name":"Malaga Airport",
+      "iata_code":"AGP",
+      "icao_code":"LEMG",
+      "lat":36.674994,
+      "lng":-4.495945,
+      "country_code":"ES"
+   },
+   {
+      "name":"Lyon-Saint Exupery Airport",
+      "iata_code":"LYS",
+      "icao_code":"LFLL",
+      "lat":45.724457,
+      "lng":5.084092,
+      "country_code":"FR"
+   },
+   {
+      "name":"Alicante-Elche Airport",
+      "iata_code":"ALC",
+      "icao_code":"LEAL",
+      "lat":38.283823,
+      "lng":-0.557899,
+      "country_code":"ES"
+   },
+   {
+      "name":"Marseille Provence Airport",
+      "iata_code":"MRS",
+      "icao_code":"LFML",
+      "lat":43.438871,
+      "lng":5.219057,
+      "country_code":"FR"
+   },
+   {
+      "name":"Gran Canaria Airport",
+      "iata_code":"LPA",
+      "icao_code":"GCLP",
+      "lat":27.932063,
+      "lng":-15.385939,
+      "country_code":"ES"
+   },
+   {
+      "name":"Toulouse-Blagnac Airport",
+      "iata_code":"TLS",
+      "icao_code":"LFBO",
+      "lat":43.629417,
+      "lng":1.36732,
+      "country_code":"FR"
    },
    {
       "name":"Milano Linate Airport",
@@ -48,6 +144,22 @@
       "country_code":"IT"
    },
    {
+      "name":"Ibiza Airport",
+      "iata_code":"IBZ",
+      "icao_code":"LEIB",
+      "lat":38.874118,
+      "lng":1.371348,
+      "country_code":"ES"
+   },
+   {
+      "name":"EuroAirport Basel-Mulhouse-Freiburg",
+      "iata_code":"MLH",
+      "icao_code":"LFSB",
+      "lat":47.592968,
+      "lng":7.530647,
+      "country_code":"FR"
+   },
+   {
       "name":"Il Caravaggio International Airport",
       "iata_code":"BGY",
       "icao_code":"LIME",
@@ -64,6 +176,30 @@
       "country_code":"IT"
    },
    {
+      "name":"Tenerife North Airport",
+      "iata_code":"TFN",
+      "icao_code":"GCXO",
+      "lat":28.484469,
+      "lng":-16.343007,
+      "country_code":"ES"
+   },
+   {
+      "name":"Valencia Airport",
+      "iata_code":"VLC",
+      "icao_code":"LEVC",
+      "lat":39.490134,
+      "lng":-0.47891,
+      "country_code":"ES"
+   },
+   {
+      "name":"Bordeaux-Merignac Airport",
+      "iata_code":"BOD",
+      "icao_code":"LFBD",
+      "lat":44.82922,
+      "lng":-0.711095,
+      "country_code":"FR"
+   },
+   {
       "name":"Falcone-Borsellino Airport",
       "iata_code":"PMO",
       "icao_code":"LICJ",
@@ -72,12 +208,60 @@
       "country_code":"IT"
    },
    {
+      "name":"Nantes Atlantique Airport",
+      "iata_code":"NTE",
+      "icao_code":"LFRS",
+      "lat":47.15467,
+      "lng":-1.607618,
+      "country_code":"FR"
+   },
+   {
+      "name":"Bilbao Airport",
+      "iata_code":"BIO",
+      "icao_code":"LEBB",
+      "lat":43.302579,
+      "lng":-2.909009,
+      "country_code":"ES"
+   },
+   {
+      "name":"Tenerife South Airport",
+      "iata_code":"TFS",
+      "icao_code":"GCTS",
+      "lat":28.044471,
+      "lng":-16.572497,
+      "country_code":"ES"
+   },
+   {
+      "name":"Seville San Pablo Airport",
+      "iata_code":"SVQ",
+      "icao_code":"LEZL",
+      "lat":37.419825,
+      "lng":-5.895452,
+      "country_code":"ES"
+   },
+   {
+      "name":"Lanzarote Airport",
+      "iata_code":"ACE",
+      "icao_code":"GCRR",
+      "lat":28.948812,
+      "lng":-13.606606,
+      "country_code":"ES"
+   },
+   {
       "name":"Bari Karol Wojtyla Airport",
       "iata_code":"BRI",
       "icao_code":"LIBD",
       "lat":41.136584,
       "lng":16.76213,
       "country_code":"IT"
+   },
+   {
+      "name":"Fuerteventura Airport",
+      "iata_code":"FUE",
+      "icao_code":"GCFV",
+      "lat":28.452008,
+      "lng":-13.865818,
+      "country_code":"ES"
    },
    {
       "name":"Florence Peretola Airport",
@@ -104,6 +288,14 @@
       "country_code":"IT"
    },
    {
+      "name":"Menorca Airport",
+      "iata_code":"MAH",
+      "icao_code":"LEMH",
+      "lat":39.863409,
+      "lng":4.220466,
+      "country_code":"ES"
+   },
+   {
       "name":"Roma Ciampino Airport",
       "iata_code":"CIA",
       "icao_code":"LIRA",
@@ -128,12 +320,44 @@
       "country_code":"IT"
    },
    {
+      "name":"Montpellier-Mediterranee Airport",
+      "iata_code":"MPL",
+      "icao_code":"LFMT",
+      "lat":43.577416,
+      "lng":3.960261,
+      "country_code":"FR"
+   },
+   {
       "name":"Olbia Costa Smeralda Airport",
       "iata_code":"OLB",
       "icao_code":"LIEO",
       "lat":40.900168,
       "lng":9.516694,
       "country_code":"IT"
+   },
+   {
+      "name":"Beauvais-Tille Airport",
+      "iata_code":"BVA",
+      "icao_code":"LFOB",
+      "lat":49.456109,
+      "lng":2.112125,
+      "country_code":"FR"
+   },
+   {
+      "name":"Santiago de Compostela Airport",
+      "iata_code":"SCQ",
+      "icao_code":"LEST",
+      "lat":42.896756,
+      "lng":-8.416065,
+      "country_code":"ES"
+   },
+   {
+      "name":"Lille Airport",
+      "iata_code":"LIL",
+      "icao_code":"LFQQ",
+      "lat":50.568583,
+      "lng":3.099794,
+      "country_code":"FR"
    },
    {
       "name":"Brindisi - Salento Airport",
@@ -152,6 +376,30 @@
       "country_code":"IT"
    },
    {
+      "name":"Ajaccio Napoleon Bonaparte Airport",
+      "iata_code":"AJA",
+      "icao_code":"LFKJ",
+      "lat":41.922369,
+      "lng":8.799951,
+      "country_code":"FR"
+   },
+   {
+      "name":"Bastia-Poretta",
+      "iata_code":"BIA",
+      "icao_code":"LFKB",
+      "lat":42.550992,
+      "lng":9.482528,
+      "country_code":"FR"
+   },
+   {
+      "name":"La Palma Airport",
+      "iata_code":"SPC",
+      "icao_code":"GCLA",
+      "lat":28.626456,
+      "lng":-17.755589,
+      "country_code":"ES"
+   },
+   {
       "name":"Treviso Airport",
       "iata_code":"TSF",
       "icao_code":"LIPH",
@@ -160,12 +408,108 @@
       "country_code":"IT"
    },
    {
+      "name":"Strasbourg Airport",
+      "iata_code":"SXB",
+      "icao_code":"LFST",
+      "lat":48.540499,
+      "lng":7.628045,
+      "country_code":"FR"
+   },
+   {
+      "name":"Brest Bretagne Airport",
+      "iata_code":"BES",
+      "icao_code":"LFRB",
+      "lat":48.446395,
+      "lng":-4.419085,
+      "country_code":"FR"
+   },
+   {
       "name":"Genoa Cristoforo Colombo Airport",
       "iata_code":"GOA",
       "icao_code":"LIMJ",
       "lat":44.414432,
       "lng":8.84624,
       "country_code":"IT"
+   },
+   {
+      "name":"Asturias Airport",
+      "iata_code":"OVD",
+      "icao_code":"LEAS",
+      "lat":43.562026,
+      "lng":-6.033778,
+      "country_code":"ES"
+   },
+   {
+      "name":"A Coruna Airport",
+      "iata_code":"LCG",
+      "icao_code":"LECO",
+      "lat":43.302174,
+      "lng":-8.378814,
+      "country_code":"ES"
+   },
+   {
+      "name":"Rennes - Saint-Jacques",
+      "iata_code":"RNS",
+      "icao_code":"LFRN",
+      "lat":48.069025,
+      "lng":-1.731943,
+      "country_code":"FR"
+   },
+   {
+      "name":"Biarritz Pays Basque Airport",
+      "iata_code":"BIQ",
+      "icao_code":"LFBZ",
+      "lat":43.467744,
+      "lng":-1.525408,
+      "country_code":"FR"
+   },
+   {
+      "name":"Vigo Airport",
+      "iata_code":"VGO",
+      "icao_code":"LEVX",
+      "lat":42.229384,
+      "lng":-8.629192,
+      "country_code":"ES"
+   },
+   {
+      "name":"Federico Garcia Lorca Airport",
+      "iata_code":"GRX",
+      "icao_code":"LEGR",
+      "lat":37.187387,
+      "lng":-3.777225,
+      "country_code":"ES"
+   },
+   {
+      "name":"Pau Pyrenees Airport",
+      "iata_code":"PUF",
+      "icao_code":"LFBP",
+      "lat":43.380783,
+      "lng":-0.416931,
+      "country_code":"FR"
+   },
+   {
+      "name":"Melilla Airport",
+      "iata_code":"MLN",
+      "icao_code":"GEML",
+      "lat":35.278899,
+      "lng":-2.956664,
+      "country_code":"ES"
+   },
+   {
+      "name":"Almeria Airport",
+      "iata_code":"LEI",
+      "icao_code":"LEAM",
+      "lat":36.845274,
+      "lng":-2.370691,
+      "country_code":"ES"
+   },
+   {
+      "name":"Jerez Airport",
+      "iata_code":"XRY",
+      "icao_code":"LEJR",
+      "lat":36.746611,
+      "lng":-6.061585,
+      "country_code":"ES"
    },
    {
       "name":"Alghero-Fertilia Airport",
@@ -184,6 +528,22 @@
       "country_code":"IT"
    },
    {
+      "name":"Hierro Airport",
+      "iata_code":"VDE",
+      "icao_code":"GCHI",
+      "lat":27.814539,
+      "lng":-17.886366,
+      "country_code":"ES"
+   },
+   {
+      "name":"Santander Airport",
+      "iata_code":"SDR",
+      "icao_code":"LEXJ",
+      "lat":43.425796,
+      "lng":-3.822604,
+      "country_code":"ES"
+   },
+   {
       "name":"Vincenzo Florio Airport Trapani-Birgi",
       "iata_code":"TPS",
       "icao_code":"LICT",
@@ -192,12 +552,44 @@
       "country_code":"IT"
    },
    {
+      "name":"Zaragoza Airport",
+      "iata_code":"ZAZ",
+      "icao_code":"LEZG",
+      "lat":41.665435,
+      "lng":-1.030188,
+      "country_code":"ES"
+   },
+   {
+      "name":"Reus Airport",
+      "iata_code":"REU",
+      "icao_code":"LERS",
+      "lat":41.146964,
+      "lng":1.162553,
+      "country_code":"ES"
+   },
+   {
+      "name":"Calvi - Sainte-Catherine Airport",
+      "iata_code":"CLY",
+      "icao_code":"LFKC",
+      "lat":42.527657,
+      "lng":8.792638,
+      "country_code":"FR"
+   },
+   {
       "name":"Abruzzo Airport",
       "iata_code":"PSR",
       "icao_code":"LIBP",
       "lat":42.433928,
       "lng":14.185034,
       "country_code":"IT"
+   },
+   {
+      "name":"Perpignan-Rivesaltes Airport",
+      "iata_code":"PGF",
+      "icao_code":"LFMP",
+      "lat":42.740619,
+      "lng":2.869841,
+      "country_code":"FR"
    },
    {
       "name":"Pantelleria Airport",
@@ -214,6 +606,54 @@
       "lat":43.613183,
       "lng":13.360114,
       "country_code":"IT"
+   },
+   {
+      "name":"Aeroport de Girona - Costa Brava",
+      "iata_code":"GRO",
+      "icao_code":"LEGE",
+      "lat":41.900004,
+      "lng":2.762494,
+      "country_code":"ES"
+   },
+   {
+      "name":"Caen - Carpiquet Airport",
+      "iata_code":"CFR",
+      "icao_code":"LFRK",
+      "lat":49.17669,
+      "lng":-0.453092,
+      "country_code":"FR"
+   },
+   {
+      "name":"Tarbes-Lourdes-Pyrenees Airport",
+      "iata_code":"LDE",
+      "icao_code":"LFBT",
+      "lat":43.181292,
+      "lng":-0.003171,
+      "country_code":"FR"
+   },
+   {
+      "name":"San Sebastian Airport",
+      "iata_code":"EAS",
+      "icao_code":"LESO",
+      "lat":43.356473,
+      "lng":-1.791586,
+      "country_code":"ES"
+   },
+   {
+      "name":"Paris-Le Bourget Airport",
+      "iata_code":"LBG",
+      "icao_code":"LFPB",
+      "lat":48.967755,
+      "lng":2.441435,
+      "country_code":"FR"
+   },
+   {
+      "name":"Clermont-Ferrand Auvergne Airport",
+      "iata_code":"CFE",
+      "icao_code":"LFLC",
+      "lat":45.787471,
+      "lng":3.165888,
+      "country_code":"FR"
    },
    {
       "name":"Federico Fellini International Airport",
@@ -240,12 +680,68 @@
       "country_code":"IT"
    },
    {
+      "name":"Valladolid Airport",
+      "iata_code":"VLL",
+      "icao_code":"LEVD",
+      "lat":41.706007,
+      "lng":-4.849502,
+      "country_code":"ES"
+   },
+   {
+      "name":"Chambery Airport",
+      "iata_code":"CMF",
+      "icao_code":"LFLB",
+      "lat":45.638048,
+      "lng":5.88161,
+      "country_code":"FR"
+   },
+   {
       "name":"Cuneo International Airport",
       "iata_code":"CUF",
       "icao_code":"LIMZ",
       "lat":44.5431,
       "lng":7.621313,
       "country_code":"IT"
+   },
+   {
+      "name":"La Rochelle - Ile de Re Airport",
+      "iata_code":"LRH",
+      "icao_code":"LFBH",
+      "lat":46.179642,
+      "lng":-1.192131,
+      "country_code":"FR"
+   },
+   {
+      "name":"Vitoria Airport",
+      "iata_code":"VIT",
+      "icao_code":"LEVT",
+      "lat":42.882534,
+      "lng":-2.724771,
+      "country_code":"ES"
+   },
+   {
+      "name":"Dole-Jura Airport",
+      "iata_code":"DLE",
+      "icao_code":"LFGJ",
+      "lat":47.039983,
+      "lng":5.430344,
+      "country_code":"FR"
+   },
+   {
+      "name":"Tours Val de Loire Airport",
+      "iata_code":"TUF",
+      "icao_code":"LFOT",
+      "lat":47.432219,
+      "lng":0.727267,
+      "country_code":"FR"
+   },
+   {
+      "name":"Poitiers-Biard Airport",
+      "iata_code":"PIS",
+      "icao_code":"LFBI",
+      "lat":46.587184,
+      "lng":0.306575,
+      "country_code":"FR"
    },
    {
       "name":"Forli Airport",
@@ -256,12 +752,116 @@
       "country_code":"IT"
    },
    {
+      "name":"Deauville - Saint-Gatien Airport",
+      "iata_code":"DOL",
+      "icao_code":"LFRG",
+      "lat":49.363692,
+      "lng":0.159491,
+      "country_code":"FR"
+   },
+   {
+      "name":"Nimes-Ales-Camargue-Cevennes Airport",
+      "iata_code":"FNI",
+      "icao_code":"LFTW",
+      "lat":43.754947,
+      "lng":4.416456,
+      "country_code":"FR"
+   },
+   {
+      "name":"Quimper-Pluguffan",
+      "iata_code":"UIP",
+      "icao_code":"LFRQ",
+      "lat":47.974807,
+      "lng":-4.168804,
+      "country_code":"FR"
+   },
+   {
       "name":"Parma Airport",
       "iata_code":"PMF",
       "icao_code":"LIMP",
       "lat":44.823734,
       "lng":10.296016,
       "country_code":"IT"
+   },
+   {
+      "name":"Alpes-Isere Airport",
+      "iata_code":"GNB",
+      "icao_code":"LFLS",
+      "lat":45.361891,
+      "lng":5.330253,
+      "country_code":"FR"
+   },
+   {
+      "name":"Saint-Nazaire - Montoir",
+      "iata_code":"SNR",
+      "icao_code":"LFRZ",
+      "lat":47.311598,
+      "lng":-2.153237,
+      "country_code":"FR"
+   },
+   {
+      "name":"Lyon-Bron Airport",
+      "iata_code":"LYN",
+      "icao_code":"LFLY",
+      "lat":45.728401,
+      "lng":4.943961,
+      "country_code":"FR"
+   },
+   {
+      "name":"Toulon-Hyeres Airport",
+      "iata_code":"TLN",
+      "icao_code":"LFTH",
+      "lat":43.096044,
+      "lng":6.150455,
+      "country_code":"FR"
+   },
+   {
+      "name":"Pamplona Airport",
+      "iata_code":"PNA",
+      "icao_code":"LEPP",
+      "lat":42.769179,
+      "lng":-1.644002,
+      "country_code":"ES"
+   },
+   {
+      "name":"Leon Airport",
+      "iata_code":"LEN",
+      "icao_code":"LELN",
+      "lat":42.589523,
+      "lng":-5.65247,
+      "country_code":"ES"
+   },
+   {
+      "name":"Badajoz Airport",
+      "iata_code":"BJZ",
+      "icao_code":"LEBZ",
+      "lat":38.891954,
+      "lng":-6.820741,
+      "country_code":"ES"
+   },
+   {
+      "name":"Cordoba Airport",
+      "iata_code":"ODB",
+      "icao_code":"LEBA",
+      "lat":37.841999,
+      "lng":-4.84888,
+      "country_code":"ES"
+   },
+   {
+      "name":"Castellon-Costa Azahar Airport",
+      "iata_code":"CDT",
+      "icao_code":"LECH",
+      "lat":40.213889,
+      "lng":0.073333,
+      "country_code":"ES"
+   },
+   {
+      "name":"Beziers Cap d'Agde Airport",
+      "iata_code":"BZR",
+      "icao_code":"LFMU",
+      "lat":43.322279,
+      "lng":3.353525,
+      "country_code":"FR"
    },
    {
       "name":"Aviano Air Base",
@@ -286,12 +886,36 @@
       "country_code":"IT"
    },
    {
+      "name":"Troyes-Barberey",
+      "iata_code":"QYR",
+      "icao_code":"LFQB",
+      "lat":48.322102,
+      "lng":4.0167,
+      "country_code":"FR"
+   },
+   {
       "name":"Comiso Airport",
       "iata_code":"CIY",
       "icao_code":"LICB",
       "lat":36.99557,
       "lng":14.608511,
       "country_code":"IT"
+   },
+   {
+      "name":"Cannes-Mandelieu",
+      "iata_code":"CEQ",
+      "icao_code":"LFMD",
+      "lat":43.542,
+      "lng":6.95348,
+      "country_code":"FR"
+   },
+   {
+      "name":"Brive-Souillac Airport",
+      "iata_code":"BVE",
+      "icao_code":"LFSL",
+      "lat":45.040318,
+      "lng":1.485857,
+      "country_code":"FR"
    },
    {
       "name":"Rome Urbe Airport",
@@ -301,11 +925,51 @@
       "country_code":"IT"
    },
    {
+      "name":"Limoges-Bellegarde",
+      "iata_code":"LIG",
+      "icao_code":"LFBL",
+      "lat":45.862587,
+      "lng":1.178375,
+      "country_code":"FR"
+   },
+   {
+      "name":"Saint-Etienne-Boutheon Airport",
+      "iata_code":"EBU",
+      "icao_code":"LFMH",
+      "lat":45.540846,
+      "lng":4.296575,
+      "country_code":"FR"
+   },
+   {
+      "name":"Rodez-Marcillac Airport",
+      "iata_code":"RDZ",
+      "icao_code":"LFCR",
+      "lat":44.408789,
+      "lng":2.483069,
+      "country_code":"FR"
+   },
+   {
       "name":"Vercelli Airport",
       "icao_code":"LILI",
       "lat":45.310233,
       "lng":8.417935,
       "country_code":"IT"
+   },
+   {
+      "name":"Valence-Chabeuil Airport",
+      "iata_code":"VAF",
+      "icao_code":"LFLU",
+      "lat":44.9216,
+      "lng":4.9699,
+      "country_code":"FR"
+   },
+   {
+      "name":"Dinard-Pleurtuit-Saint-Malo Airport",
+      "iata_code":"DNR",
+      "icao_code":"LFRD",
+      "lat":48.587719,
+      "lng":-2.081177,
+      "country_code":"FR"
    },
    {
       "name":"Padua Airport",
@@ -324,12 +988,28 @@
       "country_code":"IT"
    },
    {
+      "name":"Lannion",
+      "iata_code":"LAI",
+      "icao_code":"LFRO",
+      "lat":48.754315,
+      "lng":-3.475088,
+      "country_code":"FR"
+   },
+   {
       "name":"Verona Brescia Airport",
       "iata_code":"VBS",
       "icao_code":"LIPO",
       "lat":45.427746,
       "lng":10.329235,
       "country_code":"IT"
+   },
+   {
+      "name":"Logrono-Agoncillo Airport",
+      "iata_code":"RJL",
+      "icao_code":"LERJ",
+      "lat":42.458402,
+      "lng":-2.320705,
+      "country_code":"ES"
    },
    {
       "name":"Lugo Di Romagna Airport",
@@ -339,12 +1019,50 @@
       "country_code":"IT"
    },
    {
+      "name":"Muchamiel",
+      "icao_code":"LEMU",
+      "lat":38.440601,
+      "lng":-0.475278,
+      "country_code":"ES"
+   },
+   {
+      "name":"Orleans - Saint-Denis-de-l'Hotel Airport",
+      "iata_code":"ORE",
+      "icao_code":"LFOZ",
+      "lat":47.8969,
+      "lng":2.16333,
+      "country_code":"FR"
+   },
+   {
+      "name":"Sisteron-Theze",
+      "icao_code":"LFNS",
+      "lat":44.286331,
+      "lng":5.928993,
+      "country_code":"FR"
+   },
+   {
+      "name":"Angers - Loire Airport",
+      "iata_code":"ANE",
+      "icao_code":"LFJR",
+      "lat":47.561063,
+      "lng":-0.312382,
+      "country_code":"FR"
+   },
+   {
       "name":"Ravenna Airport",
       "iata_code":"RAN",
       "icao_code":"LIDR",
       "lat":44.36391,
       "lng":12.224978,
       "country_code":"IT"
+   },
+   {
+      "name":"Metz-Nancy-Lorraine Airport",
+      "iata_code":"ETZ",
+      "icao_code":"LFJL",
+      "lat":48.982101,
+      "lng":6.245214,
+      "country_code":"FR"
    },
    {
       "name":"Aviosuperficie Moncucco",
@@ -359,6 +1077,14 @@
       "lat":45.428299,
       "lng":12.3881,
       "country_code":"IT"
+   },
+   {
+      "name":"Burgos Villafria Airport",
+      "iata_code":"RGS",
+      "icao_code":"LEBG",
+      "lat":42.357561,
+      "lng":-3.618364,
+      "country_code":"ES"
    },
    {
       "name":"Lucca-Tassignano Airport",
@@ -385,12 +1111,60 @@
       "country_code":"IT"
    },
    {
+      "name":"Son Bonet Aerodrome",
+      "iata_code":"SBO",
+      "icao_code":"LESB",
+      "lat":39.5989,
+      "lng":2.70278,
+      "country_code":"ES"
+   },
+   {
       "name":"Salerno Costa d'Amalfi Airport",
       "iata_code":"QSR",
       "icao_code":"LIRI",
       "lat":40.620315,
       "lng":14.914477,
       "country_code":"IT"
+   },
+   {
+      "name":"Aurillac Airport",
+      "iata_code":"AUR",
+      "icao_code":"LFLW",
+      "lat":44.89343,
+      "lng":2.420645,
+      "country_code":"FR"
+   },
+   {
+      "name":"Albacete Airport",
+      "iata_code":"ABC",
+      "icao_code":"LEAB",
+      "lat":38.948455,
+      "lng":-1.863458,
+      "country_code":"ES"
+   },
+   {
+      "name":"Huesca-Pirineos Airport",
+      "iata_code":"HSK",
+      "icao_code":"LEHC",
+      "lat":42.076099,
+      "lng":-0.316667,
+      "country_code":"ES"
+   },
+   {
+      "name":"Saint-Brieuc - Armor Airport",
+      "iata_code":"SBK",
+      "icao_code":"LFRT",
+      "lat":48.5378,
+      "lng":-2.85444,
+      "country_code":"FR"
+   },
+   {
+      "name":"Dijon-Longvic Air Base",
+      "iata_code":"DIJ",
+      "icao_code":"LFSD",
+      "lat":47.269542,
+      "lng":5.08963,
+      "country_code":"FR"
    },
    {
       "name":"Aviosuperficie Caiolo Sondrio",
@@ -400,6 +1174,52 @@
       "country_code":"IT"
    },
    {
+      "name":"Agen-la-Garenne",
+      "iata_code":"AGF",
+      "icao_code":"LFBA",
+      "lat":44.174344,
+      "lng":0.593242,
+      "country_code":"FR"
+   },
+   {
+      "name":"Aire-sur-Adour",
+      "icao_code":"LFDA",
+      "lat":43.7094,
+      "lng":-0.245278,
+      "country_code":"FR"
+   },
+   {
+      "name":"Albert - Picardie Airport",
+      "iata_code":"BYF",
+      "icao_code":"LFAQ",
+      "lat":49.971153,
+      "lng":2.698499,
+      "country_code":"FR"
+   },
+   {
+      "name":"Albertville",
+      "iata_code":"XAV",
+      "icao_code":"LFKA",
+      "lat":45.627201,
+      "lng":6.32972,
+      "country_code":"FR"
+   },
+   {
+      "name":"Albi-Le Sequestre",
+      "iata_code":"LBI",
+      "icao_code":"LFCI",
+      "lat":43.913898,
+      "lng":2.11306,
+      "country_code":"FR"
+   },
+   {
+      "name":"Alcantarilla Air Base",
+      "icao_code":"LERI",
+      "lat":37.951099,
+      "lng":-1.23032,
+      "country_code":"ES"
+   },
+   {
       "name":"Alessandria Airport",
       "icao_code":"LILA",
       "lat":44.925201,
@@ -407,11 +1227,121 @@
       "country_code":"IT"
    },
    {
+      "name":"Algeciras Heliport",
+      "iata_code":"AEI",
+      "icao_code":"LEAG",
+      "lat":36.12888,
+      "lng":-5.441118,
+      "country_code":"ES"
+   },
+   {
+      "name":"Alhama De Murcia Airport",
+      "icao_code":"LELH",
+      "lat":37.748901,
+      "lng":-1.30216,
+      "country_code":"ES"
+   },
+   {
+      "name":"Almansa",
+      "icao_code":"LELM",
+      "lat":38.895,
+      "lng":-1.11318,
+      "country_code":"ES"
+   },
+   {
+      "name":"Altarejos-Guadalcanal Private Airfield",
+      "icao_code":"LEGC",
+      "lat":38.1717,
+      "lng":-5.73953,
+      "country_code":"ES"
+   },
+   {
+      "name":"Alpe d'Huez Airport",
+      "iata_code":"AHZ",
+      "icao_code":"LFHU",
+      "lat":45.088299,
+      "lng":6.08472,
+      "country_code":"FR"
+   },
+   {
+      "name":"La Motte-Chalancon",
+      "icao_code":"LFJE",
+      "lat":44.4958,
+      "lng":5.40285,
+      "country_code":"FR"
+   },
+   {
+      "name":"Peyresourde-Balestas",
+      "icao_code":"LFIP",
+      "lat":42.796902,
+      "lng":0.435556,
+      "country_code":"FR"
+   },
+   {
+      "name":"Amberieu",
+      "icao_code":"LFXA",
+      "lat":45.987301,
+      "lng":5.32844,
+      "country_code":"FR"
+   },
+   {
+      "name":"Ambert-Le Poyet",
+      "icao_code":"LFHT",
+      "lat":45.516899,
+      "lng":3.74639,
+      "country_code":"FR"
+   },
+   {
+      "name":"Amboise-Dierre",
+      "icao_code":"LFEF",
+      "lat":47.3414,
+      "lng":0.9425,
+      "country_code":"FR"
+   },
+   {
       "name":"Amendola",
       "icao_code":"LIBA",
       "lat":41.541401,
       "lng":15.7181,
       "country_code":"IT"
+   },
+   {
+      "name":"Ampuriabrava",
+      "icao_code":"LEAP",
+      "lat":42.259998,
+      "lng":3.109722,
+      "country_code":"ES"
+   },
+   {
+      "name":"Ancenis",
+      "icao_code":"LFFI",
+      "lat":47.4081,
+      "lng":-1.1775,
+      "country_code":"FR"
+   },
+   {
+      "name":"Angouleme - Cognac International Airport",
+      "iata_code":"ANG",
+      "icao_code":"LFBU",
+      "lat":45.728519,
+      "lng":0.219793,
+      "country_code":"FR"
+   },
+   {
+      "name":"Annecy-Meythet",
+      "iata_code":"NCY",
+      "icao_code":"LFLP",
+      "lat":45.930796,
+      "lng":6.104407,
+      "country_code":"FR"
+   },
+   {
+      "name":"Annemasse",
+      "iata_code":"QNJ",
+      "icao_code":"LFLI",
+      "lat":46.192001,
+      "lng":6.26839,
+      "country_code":"FR"
    },
    {
       "name":"Aosta Airport",
@@ -437,11 +1367,106 @@
       "country_code":"IT"
    },
    {
+      "name":"Argentan Airfield",
+      "icao_code":"LFAJ",
+      "lat":48.710602,
+      "lng":0.003889,
+      "country_code":"FR"
+   },
+   {
+      "name":"Argenton-sur-Creuse",
+      "icao_code":"LFEG",
+      "lat":46.596901,
+      "lng":1.6025,
+      "country_code":"FR"
+   },
+   {
+      "name":"Armilla Air Base",
+      "icao_code":"LEGA",
+      "lat":37.133202,
+      "lng":-3.63569,
+      "country_code":"ES"
+   },
+   {
+      "name":"Arras-Roclincourt",
+      "iata_code":"QRV",
+      "icao_code":"LFQD",
+      "lat":50.323898,
+      "lng":2.80278,
+      "country_code":"FR"
+   },
+   {
       "name":"Asiago Airport",
       "icao_code":"LIDA",
       "lat":45.886902,
       "lng":11.5169,
       "country_code":"IT"
+   },
+   {
+      "name":"Aubenas-Ardeche meridionale",
+      "iata_code":"OBS",
+      "icao_code":"LFHO",
+      "lat":44.544203,
+      "lng":4.372192,
+      "country_code":"FR"
+   },
+   {
+      "name":"Aubenasson",
+      "icao_code":"LFJF",
+      "lat":44.6945,
+      "lng":5.15111,
+      "country_code":"FR"
+   },
+   {
+      "name":"Aubigny-sur-Nere",
+      "icao_code":"LFEH",
+      "lat":47.480556,
+      "lng":2.394167,
+      "country_code":"FR"
+   },
+   {
+      "name":"Aeroport Auch - Gers",
+      "icao_code":"LFDH",
+      "lat":43.687801,
+      "lng":0.601667,
+      "country_code":"FR"
+   },
+   {
+      "name":"Autoridad Portuaria de Barcelona Heliport",
+      "icao_code":"LEPB",
+      "lat":41.3643,
+      "lng":2.18301,
+      "country_code":"ES"
+   },
+   {
+      "name":"Autun-Bellevue",
+      "icao_code":"LFQF",
+      "lat":46.9673,
+      "lng":4.26057,
+      "country_code":"FR"
+   },
+   {
+      "name":"Auxerre-Branches",
+      "iata_code":"AUF",
+      "icao_code":"LFLA",
+      "lat":47.850201,
+      "lng":3.49711,
+      "country_code":"FR"
+   },
+   {
+      "name":"Avallon",
+      "icao_code":"LFGE",
+      "lat":47.503101,
+      "lng":3.89944,
+      "country_code":"FR"
+   },
+   {
+      "name":"Avignon-Caumont",
+      "iata_code":"AVN",
+      "icao_code":"LFMV",
+      "lat":43.906947,
+      "lng":4.901971,
+      "country_code":"FR"
    },
    {
       "name":"Aviosuperficie \"Alvaro Leonardi\"",
@@ -479,6 +1504,135 @@
       "country_code":"IT"
    },
    {
+      "name":"Avord",
+      "icao_code":"LFOA",
+      "lat":47.053299,
+      "lng":2.6325,
+      "country_code":"FR"
+   },
+   {
+      "name":"La Axarquía-Leoni Benabu Airport",
+      "icao_code":"LEAX",
+      "lat":36.801666,
+      "lng":-4.135556,
+      "country_code":"ES"
+   },
+   {
+      "name":"Bagneres-de-Luchon",
+      "icao_code":"LFCB",
+      "lat":42.799999,
+      "lng":0.6,
+      "country_code":"FR"
+   },
+   {
+      "name":"Bagnoles-de-l'Orne - Couterne",
+      "icao_code":"LFAO",
+      "lat":48.545799,
+      "lng":-0.387444,
+      "country_code":"FR"
+   },
+   {
+      "name":"Bailleau-Armenonville",
+      "icao_code":"LFFL",
+      "lat":48.5158,
+      "lng":1.64,
+      "country_code":"FR"
+   },
+   {
+      "name":"Bar-le-Duc - Les-Hauts-de-Chee",
+      "icao_code":"LFEU",
+      "lat":48.868301,
+      "lng":5.18583,
+      "country_code":"FR"
+   },
+   {
+      "name":"Bar-sur-Seine",
+      "icao_code":"LFFR",
+      "lat":48.066898,
+      "lng":4.41361,
+      "country_code":"FR"
+   },
+   {
+      "name":"Barcelonnette - Saint-Pons Airport",
+      "iata_code":"BAE",
+      "icao_code":"LFMR",
+      "lat":44.387198,
+      "lng":6.609186,
+      "country_code":"FR"
+   },
+   {
+      "name":"La Baule-Escoublac",
+      "iata_code":"LBY",
+      "icao_code":"LFRE",
+      "lat":47.289398,
+      "lng":-2.34639,
+      "country_code":"FR"
+   },
+   {
+      "name":"Beas De Segura",
+      "icao_code":"LEBE",
+      "lat":38.271111,
+      "lng":-2.948889,
+      "country_code":"ES"
+   },
+   {
+      "name":"Beaune-Challanges",
+      "iata_code":"XBV",
+      "icao_code":"LFGF",
+      "lat":47.005901,
+      "lng":4.89342,
+      "country_code":"FR"
+   },
+   {
+      "name":"Beauvoir Fromentine Airport",
+      "icao_code":"LFFO",
+      "lat":46.89072,
+      "lng":-2.08873,
+      "country_code":"FR"
+   },
+   {
+      "name":"Bedarieux - La Tour-sur-Orb",
+      "icao_code":"LFNX",
+      "lat":43.6408,
+      "lng":3.14556,
+      "country_code":"FR"
+   },
+   {
+      "name":"Belfort-Chaux",
+      "icao_code":"LFGG",
+      "lat":47.702202,
+      "lng":6.8325,
+      "country_code":"FR"
+   },
+   {
+      "name":"Belle-Ile",
+      "icao_code":"LFEA",
+      "lat":47.325256,
+      "lng":-3.201255,
+      "country_code":"FR"
+   },
+   {
+      "name":"Bellegarde-Vouvray",
+      "icao_code":"LFHN",
+      "lat":46.124199,
+      "lng":5.80611,
+      "country_code":"FR"
+   },
+   {
+      "name":"Belleville - Villie-Morgon",
+      "icao_code":"LFHW",
+      "lat":46.142799,
+      "lng":4.71472,
+      "country_code":"FR"
+   },
+   {
+      "name":"Belley-Peyrieu",
+      "icao_code":"LFKY",
+      "lat":45.695,
+      "lng":5.69278,
+      "country_code":"FR"
+   },
+   {
       "name":"Belluno Airport",
       "iata_code":"BLX",
       "icao_code":"LIDB",
@@ -487,11 +1641,105 @@
       "country_code":"IT"
    },
    {
+      "name":"Belves - Saint-Pardoux",
+      "icao_code":"LFIB",
+      "lat":44.782501,
+      "lng":0.958889,
+      "country_code":"FR"
+   },
+   {
+      "name":"Benabarre",
+      "icao_code":"LENA",
+      "lat":42.0228,
+      "lng":0.482222,
+      "country_code":"ES"
+   },
+   {
+      "name":"Berck-sur-Mer",
+      "icao_code":"LFAM",
+      "lat":50.4231,
+      "lng":1.59194,
+      "country_code":"FR"
+   },
+   {
+      "name":"Berga Heliport",
+      "icao_code":"LERG",
+      "lat":42.105598,
+      "lng":1.85333,
+      "country_code":"ES"
+   },
+   {
+      "name":"Bergerac-Roumaniere",
+      "iata_code":"EGC",
+      "icao_code":"LFBE",
+      "lat":44.833527,
+      "lng":0.506855,
+      "country_code":"FR"
+   },
+   {
+      "name":"Bernay - Saint-Martin",
+      "icao_code":"LFPD",
+      "lat":49.102798,
+      "lng":0.566667,
+      "country_code":"FR"
+   },
+   {
+      "name":"Berre-La Fare",
+      "icao_code":"LFNR",
+      "lat":43.5378,
+      "lng":5.17833,
+      "country_code":"FR"
+   },
+   {
+      "name":"Besançon–Thise Airfield",
+      "icao_code":"LFSA",
+      "lat":47.2747,
+      "lng":6.08417,
+      "country_code":"FR"
+   },
+   {
+      "name":"Besancon - La Veze Aerodrome",
+      "iata_code":"QBQ",
+      "icao_code":"LFQM",
+      "lat":47.2066,
+      "lng":6.083681,
+      "country_code":"FR"
+   },
+   {
+      "name":"Beynes-Thiverval",
+      "icao_code":"LFPF",
+      "lat":48.843601,
+      "lng":1.90889,
+      "country_code":"FR"
+   },
+   {
       "name":"Biella-Cerrione Airport",
       "icao_code":"LILE",
       "lat":45.4953,
       "lng":8.10278,
       "country_code":"IT"
+   },
+   {
+      "name":"Biscarrosse - Parentis Airport",
+      "icao_code":"LFBS",
+      "lat":44.3694,
+      "lng":-1.13056,
+      "country_code":"FR"
+   },
+   {
+      "name":"Le Blanc",
+      "icao_code":"LFEL",
+      "lat":46.6208,
+      "lng":1.0875,
+      "country_code":"FR"
+   },
+   {
+      "name":"Blois-Le Breuil",
+      "iata_code":"XBQ",
+      "icao_code":"LFOQ",
+      "lat":47.678502,
+      "lng":1.20884,
+      "country_code":"FR"
    },
    {
       "name":"Bolzano Airport",
@@ -502,11 +1750,105 @@
       "country_code":"IT"
    },
    {
+      "name":"Bordeaux-Leognan-Saucats",
+      "icao_code":"LFCS",
+      "lat":44.700298,
+      "lng":-0.595556,
+      "country_code":"FR"
+   },
+   {
+      "name":"Bordeaux-Yvrac",
+      "icao_code":"LFDY",
+      "lat":44.877201,
+      "lng":-0.479167,
+      "country_code":"FR"
+   },
+   {
+      "name":"Bourg-Ceyzeriat",
+      "icao_code":"LFHS",
+      "lat":46.200901,
+      "lng":5.29203,
+      "country_code":"FR"
+   },
+   {
+      "name":"Bourges Airport",
+      "iata_code":"BOU",
+      "icao_code":"LFLD",
+      "lat":47.058102,
+      "lng":2.37028,
+      "country_code":"FR"
+   },
+   {
+      "name":"BP Oil España Heliport",
+      "icao_code":"LEBP",
+      "lat":39.957901,
+      "lng":-0.011632,
+      "country_code":"ES"
+   },
+   {
+      "name":"Briare-Chatillon",
+      "icao_code":"LFEI",
+      "lat":47.614399,
+      "lng":2.78194,
+      "country_code":"FR"
+   },
+   {
+      "name":"Brienne-le-Chateau",
+      "icao_code":"LFFN",
+      "lat":48.429798,
+      "lng":4.48222,
+      "country_code":"FR"
+   },
+   {
+      "name":"Brioude-Beaumont",
+      "icao_code":"LFHR",
+      "lat":45.325001,
+      "lng":3.35917,
+      "country_code":"FR"
+   },
+   {
+      "name":"Buno-Bonnevaux",
+      "icao_code":"LFFB",
+      "lat":48.351101,
+      "lng":2.42556,
+      "country_code":"FR"
+   },
+   {
       "name":"Ca Negra",
       "icao_code":"LIDC",
       "lat":45.083,
       "lng":12.15,
       "country_code":"IT"
+   },
+   {
+      "name":"Cahors Lalbenque Airport",
+      "iata_code":"ZAO",
+      "icao_code":"LFCC",
+      "lat":44.351398,
+      "lng":1.47528,
+      "country_code":"FR"
+   },
+   {
+      "name":"Cala'n Blanes Heliport",
+      "icao_code":"LENB",
+      "lat":39.997501,
+      "lng":3.81333,
+      "country_code":"ES"
+   },
+   {
+      "name":"Calaf-Sallavinera Airport",
+      "icao_code":"LECF",
+      "lat":41.744202,
+      "lng":1.55694,
+      "country_code":"ES"
+   },
+   {
+      "name":"Calais-Dunkerque Airport",
+      "iata_code":"CQF",
+      "icao_code":"LFAC",
+      "lat":50.962101,
+      "lng":1.95476,
+      "country_code":"FR"
    },
    {
       "name":"Calcinate Del Pesce Airport",
@@ -516,11 +1858,39 @@
       "country_code":"IT"
    },
    {
+      "name":"La Calderera",
+      "icao_code":"LELA",
+      "lat":38.747898,
+      "lng":-3.51456,
+      "country_code":"ES"
+   },
+   {
+      "name":"Cambrai-Niergnies Airport",
+      "icao_code":"LFYG",
+      "lat":50.142502,
+      "lng":3.265,
+      "country_code":"FR"
+   },
+   {
       "name":"Novara / Cameri",
       "icao_code":"LIMN",
       "lat":45.529598,
       "lng":8.66922,
       "country_code":"IT"
+   },
+   {
+      "name":"La Caminera",
+      "icao_code":"LENE",
+      "lat":38.668668,
+      "lng":-3.303146,
+      "country_code":"ES"
+   },
+   {
+      "name":"Campo Gaviota Heliport",
+      "icao_code":"LEGV",
+      "lat":43.4417,
+      "lng":-2.75361,
+      "country_code":"ES"
    },
    {
       "name":"Capua Airport",
@@ -530,11 +1900,33 @@
       "country_code":"IT"
    },
    {
+      "name":"Carcassonne Airport",
+      "iata_code":"CCF",
+      "icao_code":"LFMK",
+      "lat":43.215819,
+      "lng":2.307078,
+      "country_code":"FR"
+   },
+   {
+      "name":"Carpentras",
+      "icao_code":"LFNH",
+      "lat":44.0298,
+      "lng":5.07806,
+      "country_code":"FR"
+   },
+   {
       "name":"Carpi-Budrione Airfield",
       "icao_code":"LIDU",
       "lat":44.835201,
       "lng":10.8716,
       "country_code":"IT"
+   },
+   {
+      "name":"Cas Curredó Heliport",
+      "icao_code":"LECC",
+      "lat":38.9291,
+      "lng":1.46633,
+      "country_code":"ES"
    },
    {
       "name":"Casale Monferrato Airport",
@@ -544,11 +1936,105 @@
       "country_code":"IT"
    },
    {
+      "name":"Casarrubios Del Monte",
+      "icao_code":"LEMT",
+      "lat":40.235001,
+      "lng":-4.02639,
+      "country_code":"ES"
+   },
+   {
       "name":"Casarsa della Delizia Air Base",
       "icao_code":"LIDK",
       "lat":45.953167,
       "lng":12.816717,
       "country_code":"IT"
+   },
+   {
+      "name":"Casas de los Pinos Airport",
+      "icao_code":"LEPI",
+      "lat":39.298199,
+      "lng":-2.37872,
+      "country_code":"ES"
+   },
+   {
+      "name":"Cassagnes-Begonhes",
+      "icao_code":"LFIG",
+      "lat":44.177799,
+      "lng":2.515,
+      "country_code":"FR"
+   },
+   {
+      "name":"Castejón de los Monegros Airport",
+      "icao_code":"LECJ",
+      "lat":41.6078,
+      "lng":-0.218327,
+      "country_code":"ES"
+   },
+   {
+      "name":"Le Castellet",
+      "iata_code":"CTT",
+      "icao_code":"LFMQ",
+      "lat":43.252499,
+      "lng":5.78519,
+      "country_code":"FR"
+   },
+   {
+      "name":"Castellon de la Plana Airport",
+      "iata_code":"CDT",
+      "icao_code":"LECN",
+      "lat":39.999199,
+      "lng":0.026111,
+      "country_code":"ES"
+   },
+   {
+      "name":"Castelnau-Magnoac",
+      "icao_code":"LFDQ",
+      "lat":43.2794,
+      "lng":0.521667,
+      "country_code":"FR"
+   },
+   {
+      "name":"Castelnaudary-Villeneuve",
+      "icao_code":"LFMW",
+      "lat":43.312199,
+      "lng":1.92111,
+      "country_code":"FR"
+   },
+   {
+      "name":"Castelsarrasin-Moissac",
+      "icao_code":"LFCX",
+      "lat":44.086899,
+      "lng":1.12833,
+      "country_code":"FR"
+   },
+   {
+      "name":"Castres-Mazamet Airport",
+      "iata_code":"DCM",
+      "icao_code":"LFCK",
+      "lat":43.555711,
+      "lng":2.288116,
+      "country_code":"FR"
+   },
+   {
+      "name":"Cazaux",
+      "icao_code":"LFBC",
+      "lat":44.533298,
+      "lng":-1.125,
+      "country_code":"FR"
+   },
+   {
+      "name":"Cazeres-Palaminy",
+      "icao_code":"LFJH",
+      "lat":43.202202,
+      "lng":1.05111,
+      "country_code":"FR"
+   },
+   {
+      "name":"La Centenera",
+      "icao_code":"LENN",
+      "lat":38.11489,
+      "lng":-4.11547,
+      "country_code":"ES"
    },
    {
       "name":"Centocelle Airport",
@@ -558,11 +2044,224 @@
       "country_code":"IT"
    },
    {
+      "name":"La Cerdanya Airport",
+      "icao_code":"LECD",
+      "lat":42.386398,
+      "lng":1.86667,
+      "country_code":"ES"
+   },
+   {
       "name":"Aeroporto di Cervia-Pisignano",
       "icao_code":"LIPC",
       "lat":44.224201,
       "lng":12.3072,
       "country_code":"IT"
+   },
+   {
+      "name":"Cessey Baigneux les Juifs Airfield",
+      "icao_code":"LFSY",
+      "lat":47.609722,
+      "lng":4.6175,
+      "country_code":"FR"
+   },
+   {
+      "name":"Ceuta Heliport",
+      "iata_code":"JCU",
+      "icao_code":"GECE",
+      "lat":35.892432,
+      "lng":-5.30628,
+      "country_code":"ES"
+   },
+   {
+      "name":"Chalais",
+      "icao_code":"LFIH",
+      "lat":45.268101,
+      "lng":0.016944,
+      "country_code":"FR"
+   },
+   {
+      "name":"Chalon-Champforgeuil",
+      "iata_code":"XCD",
+      "icao_code":"LFLH",
+      "lat":46.826099,
+      "lng":4.81763,
+      "country_code":"FR"
+   },
+   {
+      "name":"Chalons - Ecury-sur-Coole",
+      "icao_code":"LFQK",
+      "lat":48.906101,
+      "lng":4.35417,
+      "country_code":"FR"
+   },
+   {
+      "name":"Chalons Vatry Airport",
+      "iata_code":"XCR",
+      "icao_code":"LFOK",
+      "lat":48.776346,
+      "lng":4.193841,
+      "country_code":"FR"
+   },
+   {
+      "name":"Chambery Challes-les-Eaux Aerodrome",
+      "icao_code":"LFLE",
+      "lat":45.5611,
+      "lng":5.97576,
+      "country_code":"FR"
+   },
+   {
+      "name":"Chambley-Bussières Air Base",
+      "icao_code":"LFJY",
+      "lat":49.025501,
+      "lng":5.87607,
+      "country_code":"FR"
+   },
+   {
+      "name":"Champagnole-Crotenay",
+      "icao_code":"LFGX",
+      "lat":46.7644,
+      "lng":5.82083,
+      "country_code":"FR"
+   },
+   {
+      "name":"Charleville-Mezieres",
+      "iata_code":"XCZ",
+      "icao_code":"LFQV",
+      "lat":49.783901,
+      "lng":4.64708,
+      "country_code":"FR"
+   },
+   {
+      "name":"Chartres-Metropole airport",
+      "iata_code":"QTJ",
+      "icao_code":"LFOR",
+      "lat":48.4589,
+      "lng":1.52389,
+      "country_code":"FR"
+   },
+   {
+      "name":"Chateau-Arnoux-Saint-Auban Airport",
+      "icao_code":"LFMX",
+      "lat":44.060001,
+      "lng":5.99139,
+      "country_code":"FR"
+   },
+   {
+      "name":"Chateau-Thierry - Belleau",
+      "iata_code":"XCY",
+      "icao_code":"LFFH",
+      "lat":49.0672,
+      "lng":3.35694,
+      "country_code":"FR"
+   },
+   {
+      "name":"Chateaubriant-Pouance",
+      "icao_code":"LFTQ",
+      "lat":47.739562,
+      "lng":-1.189519,
+      "country_code":"FR"
+   },
+   {
+      "name":"Chateaudun",
+      "icao_code":"LFOC",
+      "lat":48.058102,
+      "lng":1.37662,
+      "country_code":"FR"
+   },
+   {
+      "name":"Chateauneuf-sur-Cher",
+      "icao_code":"LFFU",
+      "lat":46.871101,
+      "lng":2.37694,
+      "country_code":"FR"
+   },
+   {
+      "name":"Chateauroux-Centre \"Marcel Dassault\" Airport",
+      "iata_code":"CHR",
+      "icao_code":"LFLX",
+      "lat":46.861474,
+      "lng":1.726636,
+      "country_code":"FR"
+   },
+   {
+      "name":"Chateauroux-Villers",
+      "icao_code":"LFEJ",
+      "lat":46.8419,
+      "lng":1.62111,
+      "country_code":"FR"
+   },
+   {
+      "name":"Chatellerault-Targe",
+      "iata_code":"XCX",
+      "icao_code":"LFCA",
+      "lat":46.781399,
+      "lng":0.551944,
+      "country_code":"FR"
+   },
+   {
+      "name":"Chatillon-sur-Seine",
+      "icao_code":"LFQH",
+      "lat":47.843924,
+      "lng":4.580045,
+      "country_code":"FR"
+   },
+   {
+      "name":"Chaumont-Semoutier Air Base",
+      "icao_code":"LFJA",
+      "lat":48.0863,
+      "lng":5.04902,
+      "country_code":"FR"
+   },
+   {
+      "name":"Chauvigny",
+      "icao_code":"LFDW",
+      "lat":46.583599,
+      "lng":0.6425,
+      "country_code":"FR"
+   },
+   {
+      "name":"Chavenay-Villepreux",
+      "icao_code":"LFPX",
+      "lat":48.843601,
+      "lng":1.98222,
+      "country_code":"FR"
+   },
+   {
+      "name":"Chelles-Le Pin",
+      "icao_code":"LFPH",
+      "lat":48.8978,
+      "lng":2.6075,
+      "country_code":"FR"
+   },
+   {
+      "name":"Cherbourg-Maupertus Airport",
+      "iata_code":"CER",
+      "icao_code":"LFRC",
+      "lat":49.650341,
+      "lng":-1.471919,
+      "country_code":"FR"
+   },
+   {
+      "name":"Cholet-Le Pontreau Airport",
+      "iata_code":"CET",
+      "icao_code":"LFOU",
+      "lat":47.0821,
+      "lng":-0.877064,
+      "country_code":"FR"
+   },
+   {
+      "name":"Ciudad Sanitaria y Universitaria de Bellvitge Heliport",
+      "icao_code":"LEHB",
+      "lat":41.345299,
+      "lng":2.10729,
+      "country_code":"ES"
+   },
+   {
+      "name":"Clamecy",
+      "icao_code":"LFJC",
+      "lat":47.438301,
+      "lng":3.50861,
+      "country_code":"FR"
    },
    {
       "name":"Clusone Heliport",
@@ -572,6 +2271,29 @@
       "country_code":"IT"
    },
    {
+      "name":"Coëtquidan Air Base",
+      "icao_code":"LFXQ",
+      "lat":47.946602,
+      "lng":-2.1923,
+      "country_code":"FR"
+   },
+   {
+      "name":"Cognac-Chateaubernard Air Base",
+      "iata_code":"CNG",
+      "icao_code":"LFBG",
+      "lat":45.658298,
+      "lng":-0.3175,
+      "country_code":"FR"
+   },
+   {
+      "name":"Colmar-Houssen Airport",
+      "iata_code":"CMR",
+      "icao_code":"LFGA",
+      "lat":48.109901,
+      "lng":7.35901,
+      "country_code":"FR"
+   },
+   {
       "name":"Como (Idroscalo - Water Ad) Hidroport",
       "icao_code":"LILY",
       "lat":45.814701,
@@ -579,11 +2301,97 @@
       "country_code":"IT"
    },
    {
+      "name":"Compiegne-Margny",
+      "icao_code":"LFAD",
+      "lat":49.434399,
+      "lng":2.80611,
+      "country_code":"FR"
+   },
+   {
+      "name":"Condom - Valence-sur-Baise",
+      "icao_code":"LFID",
+      "lat":43.910301,
+      "lng":0.387222,
+      "country_code":"FR"
+   },
+   {
+      "name":"Corlier",
+      "icao_code":"LFJD",
+      "lat":46.040531,
+      "lng":5.494537,
+      "country_code":"FR"
+   },
+   {
+      "name":"Corte",
+      "icao_code":"LFKT",
+      "lat":42.2919,
+      "lng":9.189,
+      "country_code":"FR"
+   },
+   {
+      "name":"Cosne-sur-Loire",
+      "icao_code":"LFGH",
+      "lat":47.3606,
+      "lng":2.91944,
+      "country_code":"FR"
+   },
+   {
+      "name":"Costa Brava-Centro Heliport",
+      "icao_code":"LEBC",
+      "lat":41.807701,
+      "lng":3.03718,
+      "country_code":"ES"
+   },
+   {
+      "name":"Costa Norte-Puerto de Viveiro-Celeiro Heliport",
+      "icao_code":"LEPV",
+      "lat":43.674801,
+      "lng":-7.59523,
+      "country_code":"ES"
+   },
+   {
+      "name":"Couhe-Verac",
+      "icao_code":"LFDV",
+      "lat":46.2728,
+      "lng":0.190556,
+      "country_code":"FR"
+   },
+   {
+      "name":"Coulommiers-Voisins Airport",
+      "icao_code":"LFPK",
+      "lat":48.8377,
+      "lng":3.01612,
+      "country_code":"FR"
+   },
+   {
+      "name":"Courchevel Airport",
+      "iata_code":"CVF",
+      "icao_code":"LFLJ",
+      "lat":45.396702,
+      "lng":6.63472,
+      "country_code":"FR"
+   },
+   {
+      "name":"Creil",
+      "iata_code":"CSF",
+      "icao_code":"LFPC",
+      "lat":49.253502,
+      "lng":2.51914,
+      "country_code":"FR"
+   },
+   {
       "name":"Cremona-Migliaro Airfield",
       "icao_code":"LILR",
       "lat":45.1674,
       "lng":10.0019,
       "country_code":"IT"
+   },
+   {
+      "name":"Croisette Heliport",
+      "iata_code":"JCA",
+      "lat":43.535999,
+      "lng":7.03736,
+      "country_code":"FR"
    },
    {
       "name":"Crotone Airport",
@@ -594,12 +2402,158 @@
       "country_code":"IT"
    },
    {
+      "name":"Cuatro Vientos Airport",
+      "iata_code":"ECV",
+      "icao_code":"LECU",
+      "lat":40.370701,
+      "lng":-3.78514,
+      "country_code":"ES"
+   },
+   {
+      "name":"Cuers-Pierrefeu",
+      "icao_code":"LFTF",
+      "lat":43.247799,
+      "lng":6.1267,
+      "country_code":"FR"
+   },
+   {
+      "name":"Aix-Les Milles",
+      "iata_code":"QXB",
+      "icao_code":"LFMA",
+      "lat":43.5056,
+      "lng":5.36778,
+      "country_code":"FR"
+   },
+   {
+      "name":"Alencon Valframbert Airport",
+      "iata_code":"XAN",
+      "icao_code":"LFOF",
+      "lat":48.447498,
+      "lng":0.109167,
+      "country_code":"FR"
+   },
+   {
+      "name":"Ales-Deaux Airport",
+      "icao_code":"LFMS",
+      "lat":44.069698,
+      "lng":4.14212,
+      "country_code":"FR"
+   },
+   {
+      "name":"Amiens-Glisy",
+      "iata_code":"QAM",
+      "icao_code":"LFAY",
+      "lat":49.873004,
+      "lng":2.387074,
+      "country_code":"FR"
+   },
+   {
+      "name":"Andernos-les-Bains",
+      "icao_code":"LFCD",
+      "lat":44.755,
+      "lng":-1.065,
+      "country_code":"FR"
+   },
+   {
+      "name":"Arcachon - La Teste-de-Buch",
+      "iata_code":"XAC",
+      "icao_code":"LFCH",
+      "lat":44.596401,
+      "lng":-1.11083,
+      "country_code":"FR"
+   },
+   {
+      "name":"Aspres-sur-Buech",
+      "icao_code":"LFNJ",
+      "lat":44.518902,
+      "lng":5.7375,
+      "country_code":"FR"
+   },
+   {
+      "name":"Avignon-Pujaut",
+      "icao_code":"LFNT",
+      "lat":43.996899,
+      "lng":4.75556,
+      "country_code":"FR"
+   },
+   {
+      "name":"Etampes-Mondesir",
+      "icao_code":"LFOX",
+      "lat":48.381901,
+      "lng":2.07528,
+      "country_code":"FR"
+   },
+   {
+      "name":"Salon-Eyguieres",
+      "icao_code":"LFNE",
+      "lat":43.658298,
+      "lng":5.01361,
+      "country_code":"FR"
+   },
+   {
+      "name":"Issoire-Le Broc",
+      "icao_code":"LFHA",
+      "lat":45.514999,
+      "lng":3.2675,
+      "country_code":"FR"
+   },
+   {
+      "name":"Oyonnax-Arbent",
+      "icao_code":"LFLK",
+      "lat":46.279202,
+      "lng":5.6675,
+      "country_code":"FR"
+   },
+   {
+      "name":"Ussel-Thalamy",
+      "icao_code":"LFCU",
+      "lat":45.534698,
+      "lng":2.42389,
+      "country_code":"FR"
+   },
+   {
+      "name":"Dax-Seyresse",
+      "iata_code":"XDA",
+      "icao_code":"LFBY",
+      "lat":43.689201,
+      "lng":-1.06889,
+      "country_code":"FR"
+   },
+   {
       "name":"Decimomannu Military Airfield",
       "iata_code":"DCI",
       "icao_code":"LIED",
       "lat":39.354198,
       "lng":8.97248,
       "country_code":"IT"
+   },
+   {
+      "name":"Dieuze-Gueblange",
+      "icao_code":"LFQZ",
+      "lat":48.775299,
+      "lng":6.71528,
+      "country_code":"FR"
+   },
+   {
+      "name":"Dijon-Darois",
+      "icao_code":"LFGI",
+      "lat":47.386902,
+      "lng":4.94806,
+      "country_code":"FR"
+   },
+   {
+      "name":"Dinan-Trelivan",
+      "icao_code":"LFEB",
+      "lat":48.444401,
+      "lng":-2.10139,
+      "country_code":"FR"
+   },
+   {
+      "name":"Dirección General de Tráfico Heliport",
+      "icao_code":"LEDG",
+      "lat":40.449299,
+      "lng":-3.646131,
+      "country_code":"ES"
    },
    {
       "name":"Dobbiaco - Toblach",
@@ -609,11 +2563,181 @@
       "country_code":"IT"
    },
    {
+      "name":"Doncourt-les-Conflans",
+      "icao_code":"LFGR",
+      "lat":49.152802,
+      "lng":5.93278,
+      "country_code":"FR"
+   },
+   {
+      "name":"Dreux-Vernouillet",
+      "icao_code":"LFON",
+      "lat":48.706699,
+      "lng":1.36278,
+      "country_code":"FR"
+   },
+   {
+      "name":"Le Havre - Saint-Romain",
+      "icao_code":"LFOY",
+      "lat":49.544701,
+      "lng":0.361111,
+      "country_code":"FR"
+   },
+   {
+      "name":"Dunkerque-Les Moeres",
+      "icao_code":"LFAK",
+      "lat":51.0406,
+      "lng":2.55028,
+      "country_code":"FR"
+   },
+   {
+      "name":"E. Castellanos-Villacastín Airport",
+      "icao_code":"LEEV",
+      "lat":40.783901,
+      "lng":-4.46278,
+      "country_code":"ES"
+   },
+   {
+      "name":"Egletons",
+      "icao_code":"LFDE",
+      "lat":45.421398,
+      "lng":2.06889,
+      "country_code":"FR"
+   },
+   {
+      "name":"El Berriel Aeroc Airport",
+      "icao_code":"GCLB",
+      "lat":27.782499,
+      "lng":-15.5072,
+      "country_code":"ES"
+   },
+   {
+      "name":"El Carrascal",
+      "icao_code":"LEVB",
+      "lat":41.824699,
+      "lng":-4.89306,
+      "country_code":"ES"
+   },
+   {
+      "name":"El Castaño Airport",
+      "icao_code":"LECT",
+      "lat":39.0107,
+      "lng":-4.38636,
+      "country_code":"ES"
+   },
+   {
+      "name":"El Manantío Airport",
+      "icao_code":"LEEM",
+      "lat":38.777508,
+      "lng":-6.991124,
+      "country_code":"ES"
+   },
+   {
+      "name":"El Musel Heliport",
+      "icao_code":"LEEL",
+      "lat":43.549732,
+      "lng":-5.695446,
+      "country_code":"ES"
+   },
+   {
+      "name":"El Portinyol Heliport",
+      "icao_code":"LEPY",
+      "lat":41.5835,
+      "lng":2.56079,
+      "country_code":"ES"
+   },
+   {
+      "name":"El Tietar",
+      "icao_code":"LETI",
+      "lat":40.2439,
+      "lng":-4.79444,
+      "country_code":"ES"
+   },
+   {
+      "name":"Enghien-Moisselles",
+      "icao_code":"LFFE",
+      "lat":49.046398,
+      "lng":2.35306,
+      "country_code":"FR"
+   },
+   {
+      "name":"Epernay-Plivot",
+      "icao_code":"LFSW",
+      "lat":49.004461,
+      "lng":4.085342,
+      "country_code":"FR"
+   },
+   {
+      "name":"Epinal-Dogneville",
+      "icao_code":"LFSE",
+      "lat":48.211899,
+      "lng":6.44917,
+      "country_code":"FR"
+   },
+   {
+      "name":"Epinal - Mirecourt Airport",
+      "iata_code":"EPL",
+      "icao_code":"LFSG",
+      "lat":48.325278,
+      "lng":6.068808,
+      "country_code":"FR"
+   },
+   {
+      "name":"Etain-Rouvres",
+      "icao_code":"LFQE",
+      "lat":49.226898,
+      "lng":5.67222,
+      "country_code":"FR"
+   },
+   {
+      "name":"Etrepagny",
+      "icao_code":"LFFY",
+      "lat":49.306099,
+      "lng":1.63861,
+      "country_code":"FR"
+   },
+   {
+      "name":"Eu-Mers - Le Treport",
+      "icao_code":"LFAE",
+      "lat":50.069199,
+      "lng":1.42667,
+      "country_code":"FR"
+   },
+   {
+      "name":"Evreux-Fauville Air Base",
+      "iata_code":"EVX",
+      "icao_code":"LFOE",
+      "lat":49.028702,
+      "lng":1.21986,
+      "country_code":"FR"
+   },
+   {
+      "name":"Expo 92 Heliport",
+      "icao_code":"LEEX",
+      "lat":37.3993,
+      "lng":-6.010675,
+      "country_code":"ES"
+   },
+   {
+      "name":"Falaise - Mont-d'Eraines",
+      "icao_code":"LFAS",
+      "lat":48.9272,
+      "lng":-0.144722,
+      "country_code":"FR"
+   },
+   {
       "name":"Fano Airport",
       "icao_code":"LIDF",
       "lat":43.824032,
       "lng":13.02588,
       "country_code":"IT"
+   },
+   {
+      "name":"Fayence",
+      "icao_code":"LFMF",
+      "lat":43.6112,
+      "lng":6.69715,
+      "country_code":"FR"
    },
    {
       "name":"Fermano Airfield",
@@ -628,6 +2752,70 @@
       "lat":44.816002,
       "lng":11.6134,
       "country_code":"IT"
+   },
+   {
+      "name":"La Ferte-Alais",
+      "icao_code":"LFFQ",
+      "lat":48.498652,
+      "lng":2.338867,
+      "country_code":"FR"
+   },
+   {
+      "name":"La Ferte-Gaucher",
+      "icao_code":"LFFG",
+      "lat":48.755798,
+      "lng":3.27667,
+      "country_code":"FR"
+   },
+   {
+      "name":"Feurs-Chambeon",
+      "icao_code":"LFLZ",
+      "lat":45.70622,
+      "lng":4.19734,
+      "country_code":"FR"
+   },
+   {
+      "name":"Figari - Sud-Corse",
+      "iata_code":"FSC",
+      "icao_code":"LFKF",
+      "lat":41.499931,
+      "lng":9.097928,
+      "country_code":"FR"
+   },
+   {
+      "name":"Figeac-Livernon",
+      "icao_code":"LFCF",
+      "lat":44.673302,
+      "lng":1.78917,
+      "country_code":"FR"
+   },
+   {
+      "name":"Fira M2 Heliport",
+      "icao_code":"LEFR",
+      "lat":41.353901,
+      "lng":2.12917,
+      "country_code":"ES"
+   },
+   {
+      "name":"Aérodrome de La Flèche - Thorée-les-Pins",
+      "icao_code":"LFAL",
+      "lat":47.692778,
+      "lng":0.001944,
+      "country_code":"FR"
+   },
+   {
+      "name":"Flers - Saint-Paul",
+      "icao_code":"LFOG",
+      "lat":48.752499,
+      "lng":-0.589444,
+      "country_code":"FR"
+   },
+   {
+      "name":"Florac - Sainte-Enimie",
+      "icao_code":"LFNO",
+      "lat":44.2864,
+      "lng":3.46667,
+      "country_code":"FR"
    },
    {
       "name":"Foggia \"Gino Lisa\" Airport",
@@ -645,11 +2833,39 @@
       "country_code":"IT"
    },
    {
+      "name":"Fontenay-le-Comte",
+      "icao_code":"LFFK",
+      "lat":46.441399,
+      "lng":-0.792778,
+      "country_code":"FR"
+   },
+   {
+      "name":"Fontenay-Tresigny",
+      "icao_code":"LFPQ",
+      "lat":48.707199,
+      "lng":2.90444,
+      "country_code":"FR"
+   },
+   {
       "name":"Frosinone Air Base",
       "icao_code":"LIRH",
       "lat":41.6464,
       "lng":13.2998,
       "country_code":"IT"
+   },
+   {
+      "name":"Fuentemilanos",
+      "icao_code":"LEFM",
+      "lat":40.888611,
+      "lng":-4.2375,
+      "country_code":"ES"
+   },
+   {
+      "name":"Fumel-Montayral",
+      "icao_code":"LFDX",
+      "lat":44.4636,
+      "lng":1.00778,
+      "country_code":"FR"
    },
    {
       "name":"Furbara Air Base",
@@ -659,11 +2875,54 @@
       "country_code":"IT"
    },
    {
+      "name":"Gaillac - Lisle-sur-Tarn",
+      "icao_code":"LFDG",
+      "lat":43.8839,
+      "lng":1.87556,
+      "country_code":"FR"
+   },
+   {
+      "name":"Gap-Tallard Airport",
+      "iata_code":"GAT",
+      "icao_code":"LFNA",
+      "lat":44.455002,
+      "lng":6.03778,
+      "country_code":"FR"
+   },
+   {
+      "name":"Garidells Heliport",
+      "icao_code":"LEGD",
+      "lat":41.213902,
+      "lng":1.24156,
+      "country_code":"ES"
+   },
+   {
+      "name":"Garray",
+      "icao_code":"LEGY",
+      "lat":41.823101,
+      "lng":-2.47861,
+      "country_code":"ES"
+   },
+   {
+      "name":"Madrid / Getafe",
+      "icao_code":"LEGT",
+      "lat":40.294102,
+      "lng":-3.72383,
+      "country_code":"ES"
+   },
+   {
       "name":"Brescia / Ghedi",
       "icao_code":"LIPL",
       "lat":45.432201,
       "lng":10.2677,
       "country_code":"IT"
+   },
+   {
+      "name":"Ghisonaccia Alzitone Airport",
+      "icao_code":"LFKG",
+      "lat":42.053387,
+      "lng":9.400241,
+      "country_code":"FR"
    },
    {
       "name":"Gioia Del Colle",
@@ -673,6 +2932,14 @@
       "country_code":"IT"
    },
    {
+      "name":"La Gomera Airport",
+      "iata_code":"GMZ",
+      "icao_code":"GCGM",
+      "lat":28.025379,
+      "lng":-17.209716,
+      "country_code":"ES"
+   },
+   {
       "name":"Gorizia",
       "icao_code":"LIPG",
       "lat":45.906898,
@@ -680,11 +2947,47 @@
       "country_code":"IT"
    },
    {
+      "name":"La Grand-Combe",
+      "icao_code":"LFTN",
+      "lat":44.2444,
+      "lng":4.01222,
+      "country_code":"FR"
+   },
+   {
+      "name":"Granville - Mont-Saint-Michel",
+      "iata_code":"GFR",
+      "icao_code":"LFRF",
+      "lat":48.883099,
+      "lng":-1.56417,
+      "country_code":"FR"
+   },
+   {
+      "name":"Graulhet-Mondragon",
+      "icao_code":"LFCQ",
+      "lat":43.771099,
+      "lng":2.01083,
+      "country_code":"FR"
+   },
+   {
+      "name":"Gray - Saint-Adrien",
+      "icao_code":"LFEV",
+      "lat":47.432023,
+      "lng":5.619518,
+      "country_code":"FR"
+   },
+   {
       "name":"Grazzanise",
       "icao_code":"LIRM",
       "lat":41.060799,
       "lng":14.0819,
       "country_code":"IT"
+   },
+   {
+      "name":"Grenoble-Le Versoud",
+      "icao_code":"LFLG",
+      "lat":45.2192,
+      "lng":5.84972,
+      "country_code":"FR"
    },
    {
       "name":"Grosseto Airport",
@@ -695,6 +2998,13 @@
       "country_code":"IT"
    },
    {
+      "name":"Gueret - Saint-Laurent",
+      "icao_code":"LFCE",
+      "lat":46.17667,
+      "lng":1.95444,
+      "country_code":"FR"
+   },
+   {
       "name":"Aeroporto di Guidonia",
       "icao_code":"LIRG",
       "lat":41.990299,
@@ -702,11 +3012,209 @@
       "country_code":"IT"
    },
    {
+      "name":"Guiscriff-Scaer",
+      "icao_code":"LFES",
+      "lat":48.052502,
+      "lng":-3.66472,
+      "country_code":"FR"
+   },
+   {
+      "name":"Haguenau",
+      "icao_code":"LFSH",
+      "lat":48.7943,
+      "lng":7.81761,
+      "country_code":"FR"
+   },
+   {
+      "name":"Le Havre - Octeville Airport",
+      "iata_code":"LEH",
+      "icao_code":"LFOH",
+      "lat":49.5339,
+      "lng":0.08806,
+      "country_code":"FR"
+   },
+   {
+      "name":"Heli Montsiá - Amposta Heliport",
+      "icao_code":"LEMN",
+      "lat":40.666401,
+      "lng":0.564722,
+      "country_code":"ES"
+   },
+   {
+      "name":"Helicsa Heliport",
+      "icao_code":"LEHE",
+      "lat":39.071201,
+      "lng":-1.83435,
+      "country_code":"ES"
+   },
+   {
+      "name":"Hospital Alcorcón Heliport",
+      "icao_code":"LEHA",
+      "lat":40.349702,
+      "lng":-3.83819,
+      "country_code":"ES"
+   },
+   {
+      "name":"Hospital Can Misses Heliport",
+      "icao_code":"LENM",
+      "lat":38.9175,
+      "lng":1.41944,
+      "country_code":"ES"
+   },
+   {
+      "name":"Hospital Doce de Octubre Heliport",
+      "icao_code":"LEDO",
+      "lat":40.374736,
+      "lng":-3.699853,
+      "country_code":"ES"
+   },
+   {
+      "name":"Hospital Doctor Josep Trueta Heliport",
+      "icao_code":"LEJT",
+      "lat":41.997898,
+      "lng":2.8214,
+      "country_code":"ES"
+   },
+   {
+      "name":"Hospital General De Catalunya Heliport",
+      "icao_code":"LEHG",
+      "lat":41.473598,
+      "lng":2.0425,
+      "country_code":"ES"
+   },
+   {
+      "name":"Hospital General De Manresa Heliport",
+      "icao_code":"LEHM",
+      "lat":41.720001,
+      "lng":1.84056,
+      "country_code":"ES"
+   },
+   {
+      "name":"Hospital San Pau Heliport",
+      "icao_code":"LESP",
+      "lat":41.413502,
+      "lng":2.17196,
+      "country_code":"ES"
+   },
+   {
+      "name":"Hospital Universitario De Canarias Heliport",
+      "icao_code":"GCHU",
+      "lat":28.4562,
+      "lng":-16.292101,
+      "country_code":"ES"
+   },
+   {
+      "name":"Hospital Universitario Joan XXIII Heliport",
+      "icao_code":"LEHJ",
+      "lat":41.125599,
+      "lng":1.23813,
+      "country_code":"ES"
+   },
+   {
+      "name":"Hotel Rey Juan Carlos I Heliport",
+      "icao_code":"LEJC",
+      "lat":41.3825,
+      "lng":2.10917,
+      "country_code":"ES"
+   },
+   {
+      "name":"Igualada/Odena Airfield",
+      "icao_code":"LEIG",
+      "lat":41.585602,
+      "lng":1.65306,
+      "country_code":"ES"
+   },
+   {
+      "name":"Ile d'Yeu",
+      "iata_code":"IDY",
+      "icao_code":"LFEY",
+      "lat":46.718601,
+      "lng":-2.39111,
+      "country_code":"FR"
+   },
+   {
+      "name":"Issoudun-Le Fay",
+      "icao_code":"LFEK",
+      "lat":46.888599,
+      "lng":2.04139,
+      "country_code":"FR"
+   },
+   {
       "name":"Istrana",
       "icao_code":"LIPS",
       "lat":45.684898,
       "lng":12.0829,
       "country_code":"IT"
+   },
+   {
+      "name":"Istres-Le Tube Air Base",
+      "icao_code":"LFMI",
+      "lat":43.522701,
+      "lng":4.92384,
+      "country_code":"FR"
+   },
+   {
+      "name":"Itxassou",
+      "icao_code":"LFIX",
+      "lat":43.337502,
+      "lng":-1.42222,
+      "country_code":"FR"
+   },
+   {
+      "name":"Iurreta Heliport",
+      "icao_code":"LEIU",
+      "lat":43.1819,
+      "lng":-2.64639,
+      "country_code":"ES"
+   },
+   {
+      "name":"Joigny",
+      "icao_code":"LFGK",
+      "lat":47.992199,
+      "lng":3.39222,
+      "country_code":"FR"
+   },
+   {
+      "name":"Joinville-Mussey",
+      "icao_code":"LFFJ",
+      "lat":48.386101,
+      "lng":5.145,
+      "country_code":"FR"
+   },
+   {
+      "name":"Jonzac-Neulles",
+      "icao_code":"LFCJ",
+      "lat":45.4842,
+      "lng":-0.421389,
+      "country_code":"FR"
+   },
+   {
+      "name":"La Juliana",
+      "icao_code":"LEJU",
+      "lat":37.294998,
+      "lng":-6.1625,
+      "country_code":"ES"
+   },
+   {
+      "name":"Juvancourt",
+      "icao_code":"LFQX",
+      "lat":48.115002,
+      "lng":4.82083,
+      "country_code":"FR"
+   },
+   {
+      "name":"King Juan Carlos Hospital Heliport",
+      "icao_code":"LERY",
+      "lat":40.340433,
+      "lng":-3.86951,
+      "country_code":"ES"
+   },
+   {
+      "name":"L'Aigle - Saint-Michel",
+      "icao_code":"LFOL",
+      "lat":48.759701,
+      "lng":0.659167,
+      "country_code":"FR"
    },
    {
       "name":"L'Aquila's Preturo Airport",
@@ -725,12 +3233,70 @@
       "country_code":"IT"
    },
    {
+      "name":"Landivisiau",
+      "iata_code":"LDV",
+      "icao_code":"LFRJ",
+      "lat":48.5303,
+      "lng":-4.15164,
+      "country_code":"FR"
+   },
+   {
+      "name":"Langogne-Lesperon",
+      "icao_code":"LFHL",
+      "lat":44.706402,
+      "lng":3.88833,
+      "country_code":"FR"
+   },
+   {
+      "name":"Langres-Rolampont",
+      "icao_code":"LFSU",
+      "lat":47.964804,
+      "lng":5.293663,
+      "country_code":"FR"
+   },
+   {
+      "name":"Lanveoc-Poulmic",
+      "icao_code":"LFRL",
+      "lat":48.2817,
+      "lng":-4.44502,
+      "country_code":"FR"
+   },
+   {
+      "name":"Laon-Chambry",
+      "icao_code":"LFAF",
+      "lat":49.595798,
+      "lng":3.63167,
+      "country_code":"FR"
+   },
+   {
+      "name":"Lapalisse-Perigny",
+      "icao_code":"LFHX",
+      "lat":46.253899,
+      "lng":3.58861,
+      "country_code":"FR"
+   },
+   {
+      "name":"Aérodrome de Lasclaveries",
+      "icao_code":"LFJV",
+      "lat":43.425278,
+      "lng":-0.286944,
+      "country_code":"FR"
+   },
+   {
       "name":"Latina Airport",
       "iata_code":"QLT",
       "icao_code":"LIRL",
       "lat":41.5424,
       "lng":12.909,
       "country_code":"IT"
+   },
+   {
+      "name":"Laval-Entrammes",
+      "iata_code":"LVA",
+      "icao_code":"LFOV",
+      "lat":48.031399,
+      "lng":-0.742986,
+      "country_code":"FR"
    },
    {
       "name":"Lecce Galatina Airport",
@@ -755,6 +3321,227 @@
       "country_code":"IT"
    },
    {
+      "name":"Lens-Benifontaine",
+      "icao_code":"LFQL",
+      "lat":50.4664,
+      "lng":2.81972,
+      "country_code":"FR"
+   },
+   {
+      "name":"Les Mureaux",
+      "icao_code":"LFXU",
+      "lat":48.998299,
+      "lng":1.94278,
+      "country_code":"FR"
+   },
+   {
+      "name":"Les Sables-d'Olonne - Talmont Airport",
+      "iata_code":"LSO",
+      "icao_code":"LFOO",
+      "lat":46.476898,
+      "lng":-1.72278,
+      "country_code":"FR"
+   },
+   {
+      "name":"Lesparre - Saint-Laurent-de-Medoc",
+      "icao_code":"LFDU",
+      "lat":45.1978,
+      "lng":-0.882222,
+      "country_code":"FR"
+   },
+   {
+      "name":"Lessay Airport",
+      "icao_code":"LFOM",
+      "lat":49.203098,
+      "lng":-1.50667,
+      "country_code":"FR"
+   },
+   {
+      "name":"Lezignan-Corbieres",
+      "icao_code":"LFMZ",
+      "lat":43.1758,
+      "lng":2.73417,
+      "country_code":"FR"
+   },
+   {
+      "name":"Libourne - Artigues-de-Lussac",
+      "icao_code":"LFDI",
+      "lat":44.982498,
+      "lng":-0.134722,
+      "country_code":"FR"
+   },
+   {
+      "name":"Lille - Marcq-en-Baroeul",
+      "icao_code":"LFQO",
+      "lat":50.687199,
+      "lng":3.07556,
+      "country_code":"FR"
+   },
+   {
+      "name":"Lillo",
+      "icao_code":"LELT",
+      "lat":39.7169,
+      "lng":-3.32056,
+      "country_code":"ES"
+   },
+   {
+      "name":"Lleida-Alguaire Airport",
+      "iata_code":"ILD",
+      "icao_code":"LEDA",
+      "lat":41.728,
+      "lng":0.537312,
+      "country_code":"ES"
+   },
+   {
+      "name":"Lognes-Emerainville Airport",
+      "icao_code":"LFPL",
+      "lat":48.821028,
+      "lng":2.625967,
+      "country_code":"FR"
+   },
+   {
+      "name":"Longuyon-Villette",
+      "icao_code":"LFGS",
+      "lat":49.484402,
+      "lng":5.57278,
+      "country_code":"FR"
+   },
+   {
+      "name":"Lons-le-Saunier - Courlaoux",
+      "icao_code":"LFGL",
+      "lat":46.676102,
+      "lng":5.47111,
+      "country_code":"FR"
+   },
+   {
+      "name":"Lorient - Lann-Bihoue",
+      "iata_code":"LRT",
+      "icao_code":"LFRH",
+      "lat":47.758297,
+      "lng":-3.438798,
+      "country_code":"FR"
+   },
+   {
+      "name":"Los Martínez Del Puerto Airport",
+      "icao_code":"LEMP",
+      "lat":37.836817,
+      "lng":-1.097667,
+      "country_code":"ES"
+   },
+   {
+      "name":"Los Pozuelos De Calatrava Airport",
+      "icao_code":"LEPZ",
+      "lat":38.912201,
+      "lng":-4.19111,
+      "country_code":"ES"
+   },
+   {
+      "name":"Loudun",
+      "icao_code":"LFDL",
+      "lat":47.037201,
+      "lng":0.101389,
+      "country_code":"FR"
+   },
+   {
+      "name":"Le Luc-Le Cannet",
+      "icao_code":"LFMC",
+      "lat":43.384701,
+      "lng":6.38714,
+      "country_code":"FR"
+   },
+   {
+      "name":"Luneville-Croismare Airport",
+      "icao_code":"LFQC",
+      "lat":48.5933,
+      "lng":6.54346,
+      "country_code":"FR"
+   },
+   {
+      "name":"Lurcy-Levis",
+      "icao_code":"LFJU",
+      "lat":46.7136,
+      "lng":2.9459,
+      "country_code":"FR"
+   },
+   {
+      "name":"Luxeuil - Saint-Sauveur",
+      "icao_code":"LFSX",
+      "lat":47.783056,
+      "lng":6.364167,
+      "country_code":"FR"
+   },
+   {
+      "name":"Lyon-Brindas",
+      "icao_code":"LFKL",
+      "lat":45.7117,
+      "lng":4.69778,
+      "country_code":"FR"
+   },
+   {
+      "name":"Lyon-Corbas",
+      "icao_code":"LFHJ",
+      "lat":45.654202,
+      "lng":4.91361,
+      "country_code":"FR"
+   },
+   {
+      "name":"Macon-Charnay Airport",
+      "icao_code":"LFLM",
+      "lat":46.295101,
+      "lng":4.79577,
+      "country_code":"FR"
+   },
+   {
+      "name":"Madrigalejo Del Monte",
+      "icao_code":"LEJO",
+      "lat":42.134399,
+      "lng":-3.73103,
+      "country_code":"ES"
+   },
+   {
+      "name":"Mafé - Gibraleón Airport",
+      "icao_code":"LEMF",
+      "lat":37.3643,
+      "lng":-6.92094,
+      "country_code":"ES"
+   },
+   {
+      "name":"La Mancha-Toledo Airport",
+      "icao_code":"LEMX",
+      "lat":39.562099,
+      "lng":-3.25075,
+      "country_code":"ES"
+   },
+   {
+      "name":"Manresa Airport",
+      "icao_code":"LEMS",
+      "lat":41.765301,
+      "lng":1.86167,
+      "country_code":"ES"
+   },
+   {
+      "name":"Le Mans-Arnage",
+      "iata_code":"LME",
+      "icao_code":"LFRM",
+      "lat":47.948601,
+      "lng":0.201667,
+      "country_code":"FR"
+   },
+   {
+      "name":"Mantes-Cherence",
+      "icao_code":"LFFC",
+      "lat":49.078899,
+      "lng":1.68972,
+      "country_code":"FR"
+   },
+   {
+      "name":"Marennes",
+      "icao_code":"LFJI",
+      "lat":45.825001,
+      "lng":-1.07667,
+      "country_code":"FR"
+   },
+   {
       "name":"Marina Di Campo Airport",
       "iata_code":"EBA",
       "icao_code":"LIRJ",
@@ -770,12 +3557,101 @@
       "country_code":"IT"
    },
    {
+      "name":"Marmande - Virazeil Airport",
+      "icao_code":"LFDM",
+      "lat":44.498901,
+      "lng":0.200514,
+      "country_code":"FR"
+   },
+   {
+      "name":"Mas Passamaner Heliport",
+      "icao_code":"LEPS",
+      "lat":41.185902,
+      "lng":1.15992,
+      "country_code":"ES"
+   },
+   {
       "name":"Massa Cinquale Airport",
       "iata_code":"QMM",
       "icao_code":"LILQ",
       "lat":43.986004,
       "lng":10.1428,
       "country_code":"IT"
+   },
+   {
+      "name":"Matilla De Los Caños Airport",
+      "icao_code":"LETC",
+      "lat":41.530602,
+      "lng":-4.925,
+      "country_code":"ES"
+   },
+   {
+      "name":"Maubeuge Elesmes Airport",
+      "iata_code":"XME",
+      "icao_code":"LFQJ",
+      "lat":50.310501,
+      "lng":4.03312,
+      "country_code":"FR"
+   },
+   {
+      "name":"Mauleon",
+      "icao_code":"LFJB",
+      "lat":46.902802,
+      "lng":-0.697778,
+      "country_code":"FR"
+   },
+   {
+      "name":"Le Mazet-de-Romanin",
+      "icao_code":"LFNZ",
+      "lat":43.768902,
+      "lng":4.89361,
+      "country_code":"FR"
+   },
+   {
+      "name":"Meaux-Esbly",
+      "icao_code":"LFPE",
+      "lat":48.927799,
+      "lng":2.83528,
+      "country_code":"FR"
+   },
+   {
+      "name":"Megeve Altiport",
+      "iata_code":"MVV",
+      "icao_code":"LFHM",
+      "lat":45.823005,
+      "lng":6.649406,
+      "country_code":"FR"
+   },
+   {
+      "name":"Melun-Villaroche",
+      "icao_code":"LFPM",
+      "lat":48.604698,
+      "lng":2.67112,
+      "country_code":"FR"
+   },
+   {
+      "name":"Mende-Brenoux",
+      "iata_code":"MEN",
+      "icao_code":"LFNB",
+      "lat":44.50279,
+      "lng":3.531129,
+      "country_code":"FR"
+   },
+   {
+      "name":"Meribel",
+      "iata_code":"MFX",
+      "icao_code":"LFKX",
+      "lat":45.407003,
+      "lng":6.577942,
+      "country_code":"FR"
+   },
+   {
+      "name":"Merville-Calonne Airport",
+      "iata_code":"HZB",
+      "icao_code":"LFQT",
+      "lat":50.618401,
+      "lng":2.64224,
+      "country_code":"FR"
    },
    {
       "name":"Bresso Airport",
@@ -785,6 +3661,20 @@
       "country_code":"IT"
    },
    {
+      "name":"Millau-Larzac",
+      "icao_code":"LFCM",
+      "lat":43.9893,
+      "lng":3.183,
+      "country_code":"FR"
+   },
+   {
+      "name":"Mimizan",
+      "icao_code":"LFCZ",
+      "lat":44.145928,
+      "lng":-1.16432,
+      "country_code":"FR"
+   },
+   {
       "name":"Modena-Marzaglia Airfield",
       "icao_code":"LIPM",
       "lat":44.631389,
@@ -792,11 +3682,326 @@
       "country_code":"IT"
    },
    {
+      "name":"La Mole - Saint-Tropez Airport",
+      "iata_code":"LTT",
+      "icao_code":"LFTZ",
+      "lat":43.205553,
+      "lng":6.482484,
+      "country_code":"FR"
+   },
+   {
+      "name":"Mont-Dauphin - Saint-Crepin",
+      "iata_code":"SCP",
+      "icao_code":"LFNC",
+      "lat":44.701698,
+      "lng":6.60028,
+      "country_code":"FR"
+   },
+   {
+      "name":"Mont-Louis - La Quillane",
+      "icao_code":"LFNQ",
+      "lat":42.543598,
+      "lng":2.12,
+      "country_code":"FR"
+   },
+   {
+      "name":"Mont-de-Marsan",
+      "iata_code":"XMJ",
+      "icao_code":"LFBM",
+      "lat":43.911701,
+      "lng":-0.5075,
+      "country_code":"FR"
+   },
+   {
+      "name":"Montagne-Noire",
+      "icao_code":"LFMG",
+      "lat":43.407501,
+      "lng":1.99028,
+      "country_code":"FR"
+   },
+   {
+      "name":"Montaigu - Saint-Georges",
+      "icao_code":"LFFW",
+      "lat":46.933102,
+      "lng":-1.32556,
+      "country_code":"FR"
+   },
+   {
+      "name":"Montargis-Vimory",
+      "icao_code":"LFEM",
+      "lat":47.960602,
+      "lng":2.68583,
+      "country_code":"FR"
+   },
+   {
+      "name":"Montbeliard - Courcelles Aerodrome",
+      "iata_code":"XMF",
+      "icao_code":"LFSM",
+      "lat":47.487,
+      "lng":6.79054,
+      "country_code":"FR"
+   },
+   {
+      "name":"Montceau-les-Mines - Pouilloux",
+      "icao_code":"LFGM",
+      "lat":46.604198,
+      "lng":4.33389,
+      "country_code":"FR"
+   },
+   {
+      "name":"Montdidier",
+      "icao_code":"LFAR",
+      "lat":49.6731,
+      "lng":2.56917,
+      "country_code":"FR"
+   },
+   {
+      "name":"Montelimar-Ancone",
+      "iata_code":"XMK",
+      "icao_code":"LFLQ",
+      "lat":44.583599,
+      "lng":4.74056,
+      "country_code":"FR"
+   },
+   {
+      "name":"Montendre-Marcillac",
+      "icao_code":"LFDC",
+      "lat":45.274399,
+      "lng":-0.452222,
+      "country_code":"FR"
+   },
+   {
+      "name":"Montlucon-Domerat",
+      "icao_code":"LFLT",
+      "lat":46.352501,
+      "lng":2.57049,
+      "country_code":"FR"
+   },
+   {
+      "name":"Montlucon - Gueret Airport",
+      "iata_code":"MCU",
+      "icao_code":"LFBK",
+      "lat":46.222599,
+      "lng":2.36396,
+      "country_code":"FR"
+   },
+   {
+      "name":"Montpellier-Candillargues",
+      "icao_code":"LFNG",
+      "lat":43.610298,
+      "lng":4.07028,
+      "country_code":"FR"
+   },
+   {
+      "name":"Morante",
+      "icao_code":"LETE",
+      "lat":39.0369,
+      "lng":-6.69056,
+      "country_code":"ES"
+   },
+   {
+      "name":"Morestel",
+      "icao_code":"LFHI",
+      "lat":45.687801,
+      "lng":5.45361,
+      "country_code":"FR"
+   },
+   {
+      "name":"Moret-Episy",
+      "icao_code":"LFPU",
+      "lat":48.3419,
+      "lng":2.79944,
+      "country_code":"FR"
+   },
+   {
+      "name":"La Morgal",
+      "icao_code":"LEMR",
+      "lat":43.429199,
+      "lng":-5.83056,
+      "country_code":"ES"
+   },
+   {
+      "name":"Montauban Airport",
+      "iata_code":"XMW",
+      "icao_code":"LFDB",
+      "lat":44.0257,
+      "lng":1.37804,
+      "country_code":"FR"
+   },
+   {
+      "name":"Morlaix - Ploujean Airport",
+      "iata_code":"MXN",
+      "icao_code":"LFRU",
+      "lat":48.60214,
+      "lng":-3.816076,
+      "country_code":"FR"
+   },
+   {
+      "name":"Moron Air Base",
+      "iata_code":"OZP",
+      "icao_code":"LEMO",
+      "lat":37.173206,
+      "lng":-5.614595,
+      "country_code":"ES"
+   },
+   {
+      "name":"Mortagne-au-Perche",
+      "icao_code":"LFAX",
+      "lat":48.540298,
+      "lng":0.533889,
+      "country_code":"FR"
+   },
+   {
+      "name":"Moulins-Montbeugny",
+      "iata_code":"XMU",
+      "icao_code":"LFHY",
+      "lat":46.534599,
+      "lng":3.42372,
+      "country_code":"FR"
+   },
+   {
+      "name":"Mulhouse-Habsheim",
+      "icao_code":"LFGB",
+      "lat":47.741299,
+      "lng":7.43221,
+      "country_code":"FR"
+   },
+   {
+      "name":"Muret-Lherm",
+      "icao_code":"LFBR",
+      "lat":43.448898,
+      "lng":1.26333,
+      "country_code":"FR"
+   },
+   {
+      "name":"Nancy-Azelot",
+      "icao_code":"LFEX",
+      "lat":48.5928,
+      "lng":6.24111,
+      "country_code":"FR"
+   },
+   {
+      "name":"Nancy-Essey Airport",
+      "iata_code":"ENC",
+      "icao_code":"LFSN",
+      "lat":48.692101,
+      "lng":6.23046,
+      "country_code":"FR"
+   },
+   {
+      "name":"Nancy-Malzeville",
+      "icao_code":"LFEZ",
+      "lat":48.7244,
+      "lng":6.20778,
+      "country_code":"FR"
+   },
+   {
+      "name":"Nancy-Ochey",
+      "icao_code":"LFSO",
+      "lat":48.583099,
+      "lng":5.955,
+      "country_code":"FR"
+   },
+   {
+      "name":"Nangis-les-Loges",
+      "icao_code":"LFAI",
+      "lat":48.596199,
+      "lng":3.00679,
+      "country_code":"FR"
+   },
+   {
+      "name":"La Nava - Corral De Ayllón Airfield",
+      "icao_code":"LECA",
+      "lat":41.410801,
+      "lng":-3.44833,
+      "country_code":"ES"
+   },
+   {
+      "name":"Neufchateau",
+      "icao_code":"LFFT",
+      "lat":48.362499,
+      "lng":5.72139,
+      "country_code":"FR"
+   },
+   {
+      "name":"Nevers-Fourchambault",
+      "iata_code":"NVS",
+      "icao_code":"LFQG",
+      "lat":47.002602,
+      "lng":3.11333,
+      "country_code":"FR"
+   },
+   {
+      "name":"Nimes-Courbessac",
+      "icao_code":"LFME",
+      "lat":43.853901,
+      "lng":4.41361,
+      "country_code":"FR"
+   },
+   {
+      "name":"Niort-Souche",
+      "iata_code":"NIT",
+      "icao_code":"LFBN",
+      "lat":46.313477,
+      "lng":-0.394529,
+      "country_code":"FR"
+   },
+   {
+      "name":"Nogaro",
+      "icao_code":"LFCN",
+      "lat":43.769699,
+      "lng":-0.032778,
+      "country_code":"FR"
+   },
+   {
+      "name":"Nou Hospital De Mataró Heliport",
+      "icao_code":"LENH",
+      "lat":41.560799,
+      "lng":2.42972,
+      "country_code":"ES"
+   },
+   {
       "name":"Novi Ligure Airport",
       "icao_code":"LIMR",
       "lat":44.779999,
       "lng":8.78639,
       "country_code":"IT"
+   },
+   {
+      "name":"Nuits-Saint-Georges",
+      "icao_code":"LFGZ",
+      "lat":47.143101,
+      "lng":4.96917,
+      "country_code":"FR"
+   },
+   {
+      "name":"Ocaña Airport",
+      "icao_code":"LEOC",
+      "lat":39.9375,
+      "lng":-3.50333,
+      "country_code":"ES"
+   },
+   {
+      "name":"Oloron-Herrere",
+      "icao_code":"LFCO",
+      "lat":43.1647,
+      "lng":-0.560278,
+      "country_code":"FR"
+   },
+   {
+      "name":"Ontur",
+      "icao_code":"LEOT",
+      "lat":38.616901,
+      "lng":-1.525,
+      "country_code":"ES"
+   },
+   {
+      "name":"Orange-Caritat",
+      "iata_code":"XOG",
+      "icao_code":"LFMO",
+      "lat":44.140499,
+      "lng":4.86672,
+      "country_code":"FR"
    },
    {
       "name":"Oristano-Fenosu Airport",
@@ -807,6 +4012,20 @@
       "country_code":"IT"
    },
    {
+      "name":"Orléans-Bricy (BA 123) Air Base",
+      "icao_code":"LFOJ",
+      "lat":47.987801,
+      "lng":1.76056,
+      "country_code":"FR"
+   },
+   {
+      "name":"Ushant Airport",
+      "icao_code":"LFEC",
+      "lat":48.4632,
+      "lng":-5.06358,
+      "country_code":"FR"
+   },
+   {
       "name":"Palermo Boccadifalco",
       "icao_code":"LICP",
       "lat":38.110802,
@@ -814,11 +4033,98 @@
       "country_code":"IT"
    },
    {
+      "name":"Palma Del Río Airport",
+      "icao_code":"LEPR",
+      "lat":37.715302,
+      "lng":-5.21356,
+      "country_code":"ES"
+   },
+   {
+      "name":"Pamiers-Les Pujols",
+      "icao_code":"LFDJ",
+      "lat":43.090599,
+      "lng":1.69583,
+      "country_code":"FR"
+   },
+   {
+      "name":"Paray-le-Monial",
+      "icao_code":"LFGN",
+      "lat":46.466381,
+      "lng":4.133798,
+      "country_code":"FR"
+   },
+   {
+      "name":"Paris Issy-les-Moulineaux Heliport",
+      "iata_code":"JDP",
+      "icao_code":"LFPI",
+      "lat":48.833302,
+      "lng":2.27278,
+      "country_code":"FR"
+   },
+   {
+      "name":"Parque De Bomberos De Orriols Heliport",
+      "icao_code":"LEOR",
+      "lat":42.132198,
+      "lng":2.90389,
+      "country_code":"ES"
+   },
+   {
+      "name":"Parque De Garraf-Sitges Heliport",
+      "icao_code":"LEGS",
+      "lat":41.273899,
+      "lng":1.91472,
+      "country_code":"ES"
+   },
+   {
       "name":"Pavullo Airport",
       "icao_code":"LIDP",
       "lat":44.322399,
       "lng":10.8317,
       "country_code":"IT"
+   },
+   {
+      "name":"La Perdiz - Torre De Juan Abad Airport",
+      "icao_code":"LEIZ",
+      "lat":38.5131,
+      "lng":-3.36433,
+      "country_code":"ES"
+   },
+   {
+      "name":"Perigueux - Bassillac Airport",
+      "iata_code":"PGX",
+      "icao_code":"LFBX",
+      "lat":45.192884,
+      "lng":0.781789,
+      "country_code":"FR"
+   },
+   {
+      "name":"Peronne-St Quentin Airport",
+      "iata_code":"XSJ",
+      "icao_code":"LFAG",
+      "lat":49.8685,
+      "lng":3.02958,
+      "country_code":"FR"
+   },
+   {
+      "name":"Perouges-Meximieux",
+      "icao_code":"LFHC",
+      "lat":45.869701,
+      "lng":5.18722,
+      "country_code":"FR"
+   },
+   {
+      "name":"Persan-Beaumont",
+      "icao_code":"LFPA",
+      "lat":49.165798,
+      "lng":2.31306,
+      "country_code":"FR"
+   },
+   {
+      "name":"Phalsbourg-Bourscheid",
+      "icao_code":"LFQP",
+      "lat":48.768056,
+      "lng":7.205,
+      "country_code":"FR"
    },
    {
       "name":"Piacenza-San Damiano Air Base",
@@ -835,6 +4141,92 @@
       "country_code":"IT"
    },
    {
+      "name":"Pierrelatte",
+      "icao_code":"LFHD",
+      "lat":44.398899,
+      "lng":4.71806,
+      "country_code":"FR"
+   },
+   {
+      "name":"Andorra - La Seu d'Urgell Airport",
+      "iata_code":"LEU",
+      "icao_code":"LESU",
+      "lat":42.339502,
+      "lng":1.409304,
+      "country_code":"ES"
+   },
+   {
+      "name":"Pithiviers",
+      "icao_code":"LFFP",
+      "lat":48.1572,
+      "lng":2.1925,
+      "country_code":"FR"
+   },
+   {
+      "name":"Le Plessis-Belleville",
+      "icao_code":"LFPP",
+      "lat":49.108837,
+      "lng":2.736138,
+      "country_code":"FR"
+   },
+   {
+      "name":"Ploermel-Loyat",
+      "icao_code":"LFRP",
+      "lat":48.0028,
+      "lng":-2.37722,
+      "country_code":"FR"
+   },
+   {
+      "name":"Pons-Avy",
+      "icao_code":"LFCP",
+      "lat":45.57,
+      "lng":-0.515,
+      "country_code":"FR"
+   },
+   {
+      "name":"Pont-Saint-Vincent",
+      "icao_code":"LFSV",
+      "lat":48.601398,
+      "lng":6.05778,
+      "country_code":"FR"
+   },
+   {
+      "name":"Pont-sur-Yonne",
+      "icao_code":"LFGO",
+      "lat":48.289172,
+      "lng":3.247912,
+      "country_code":"FR"
+   },
+   {
+      "name":"Pontarlier Airport",
+      "icao_code":"LFSP",
+      "lat":46.903999,
+      "lng":6.32737,
+      "country_code":"FR"
+   },
+   {
+      "name":"Pontivy",
+      "icao_code":"LFED",
+      "lat":48.058498,
+      "lng":-2.92183,
+      "country_code":"FR"
+   },
+   {
+      "name":"Pontoise - Cormeilles Aerodrom",
+      "iata_code":"POX",
+      "icao_code":"LFPT",
+      "lat":49.096671,
+      "lng":2.040832,
+      "country_code":"FR"
+   },
+   {
+      "name":"Pouilly-Maconge",
+      "icao_code":"LFEP",
+      "lat":47.221401,
+      "lng":4.56111,
+      "country_code":"FR"
+   },
+   {
       "name":"Prati Vecchi D'Aguscello Airport",
       "icao_code":"LIDV",
       "lat":44.790298,
@@ -849,11 +4241,105 @@
       "country_code":"IT"
    },
    {
+      "name":"Propriano",
+      "iata_code":"PRP",
+      "icao_code":"LFKO",
+      "lat":41.660599,
+      "lng":8.88975,
+      "country_code":"FR"
+   },
+   {
+      "name":"Puimoisson",
+      "icao_code":"LFTP",
+      "lat":43.86889,
+      "lng":6.16278,
+      "country_code":"FR"
+   },
+   {
+      "name":"Puivert",
+      "icao_code":"LFNW",
+      "lat":42.9114,
+      "lng":2.05611,
+      "country_code":"FR"
+   },
+   {
+      "name":"Le Puy - Loudes Airport",
+      "iata_code":"LPY",
+      "icao_code":"LFHP",
+      "lat":45.081574,
+      "lng":3.764149,
+      "country_code":"FR"
+   },
+   {
+      "name":"Quiberon",
+      "icao_code":"LFEQ",
+      "lat":47.482201,
+      "lng":-3.1,
+      "country_code":"FR"
+   },
+   {
+      "name":"R.A.C.C. Heliport",
+      "icao_code":"LERA",
+      "lat":41.383301,
+      "lng":2.10833,
+      "country_code":"ES"
+   },
+   {
+      "name":"Redon - Bains-sur-Oust",
+      "icao_code":"LFER",
+      "lat":47.699402,
+      "lng":-2.03667,
+      "country_code":"FR"
+   },
+   {
       "name":"Reggio Emilia Airport",
       "icao_code":"LIDE",
       "lat":44.698299,
       "lng":10.6628,
       "country_code":"IT"
+   },
+   {
+      "name":"Region de Murcia International Airport",
+      "iata_code":"RMU",
+      "icao_code":"LEMI",
+      "lat":37.80369,
+      "lng":-1.125453,
+      "country_code":"ES"
+   },
+   {
+      "name":"Aérodrome de Reims Prunay",
+      "icao_code":"LFQA",
+      "lat":49.208698,
+      "lng":4.15658,
+      "country_code":"FR"
+   },
+   {
+      "name":"La Reole-Floudes",
+      "icao_code":"LFDR",
+      "lat":44.5681,
+      "lng":-0.056111,
+      "country_code":"FR"
+   },
+   {
+      "name":"Rethel-Perthes",
+      "icao_code":"LFAP",
+      "lat":49.481899,
+      "lng":4.36472,
+      "country_code":"FR"
+   },
+   {
+      "name":"Revel-Montgey",
+      "icao_code":"LFIR",
+      "lat":43.4814,
+      "lng":1.98,
+      "country_code":"FR"
+   },
+   {
+      "name":"Riberac-Tourette airfield",
+      "icao_code":"LFIK",
+      "lat":45.238667,
+      "lng":0.264798,
+      "country_code":"FR"
    },
    {
       "name":"Rieti Airport",
@@ -864,11 +4350,245 @@
       "country_code":"IT"
    },
    {
+      "name":"Rion-des-Landes",
+      "icao_code":"LFIL",
+      "lat":43.915798,
+      "lng":-0.949167,
+      "country_code":"FR"
+   },
+   {
       "name":"Udine / Rivolto",
       "icao_code":"LIPI",
       "lat":45.978699,
       "lng":13.0493,
       "country_code":"IT"
+   },
+   {
+      "name":"Roanne - Renaison Airport",
+      "iata_code":"RNE",
+      "icao_code":"LFLO",
+      "lat":46.0583,
+      "lng":4.00139,
+      "country_code":"FR"
+   },
+   {
+      "name":"Robledillo De Mohernando",
+      "icao_code":"LERM",
+      "lat":40.865299,
+      "lng":-3.24778,
+      "country_code":"ES"
+   },
+   {
+      "name":"La Roche-sur-Yon - Les Ajoncs",
+      "iata_code":"EDM",
+      "icao_code":"LFRI",
+      "lat":46.7019,
+      "lng":-1.37863,
+      "country_code":"FR"
+   },
+   {
+      "name":"Rochefort - Saint-Agnant",
+      "iata_code":"RCO",
+      "icao_code":"LFDN",
+      "lat":45.887798,
+      "lng":-0.983056,
+      "country_code":"FR"
+   },
+   {
+      "name":"Romans - Saint-Paul",
+      "icao_code":"LFHE",
+      "lat":45.066101,
+      "lng":5.10333,
+      "country_code":"FR"
+   },
+   {
+      "name":"Romorantin-Pruniers",
+      "icao_code":"LFYR",
+      "lat":47.317543,
+      "lng":1.691036,
+      "country_code":"FR"
+   },
+   {
+      "name":"Naval Station Rota",
+      "iata_code":"ROZ",
+      "icao_code":"LERT",
+      "lat":36.644167,
+      "lng":-6.349286,
+      "country_code":"ES"
+   },
+   {
+      "name":"Rouen Airport",
+      "iata_code":"URO",
+      "icao_code":"LFOP",
+      "lat":49.384201,
+      "lng":1.1748,
+      "country_code":"FR"
+   },
+   {
+      "name":"Royan - Medis Aerodrome",
+      "iata_code":"RYN",
+      "icao_code":"LFCY",
+      "lat":45.628101,
+      "lng":-0.9725,
+      "country_code":"FR"
+   },
+   {
+      "name":"Rozas",
+      "icao_code":"LERO",
+      "lat":43.116901,
+      "lng":-7.47028,
+      "country_code":"ES"
+   },
+   {
+      "name":"Ruoms",
+      "icao_code":"LFHF",
+      "lat":44.445301,
+      "lng":4.33389,
+      "country_code":"FR"
+   },
+   {
+      "name":"Sabadell Airport",
+      "iata_code":"QSA",
+      "icao_code":"LELL",
+      "lat":41.520901,
+      "lng":2.10508,
+      "country_code":"ES"
+   },
+   {
+      "name":"Saint-Affrique - Belmont",
+      "icao_code":"LFIF",
+      "lat":43.823299,
+      "lng":2.74528,
+      "country_code":"FR"
+   },
+   {
+      "name":"Saint-Cyr-l'Ecole",
+      "icao_code":"LFPZ",
+      "lat":48.810355,
+      "lng":2.073197,
+      "country_code":"FR"
+   },
+   {
+      "name":"Saint-Dizier - Robinson",
+      "icao_code":"LFSI",
+      "lat":48.636002,
+      "lng":4.89942,
+      "country_code":"FR"
+   },
+   {
+      "name":"Saint-Flour - Coltines",
+      "icao_code":"LFHQ",
+      "lat":45.076401,
+      "lng":2.99361,
+      "country_code":"FR"
+   },
+   {
+      "name":"Saint-Girons - Antichan",
+      "icao_code":"LFCG",
+      "lat":43.007801,
+      "lng":1.10315,
+      "country_code":"FR"
+   },
+   {
+      "name":"Saint-Inglevert - Les Deux Caps",
+      "icao_code":"LFIS",
+      "lat":50.882608,
+      "lng":1.735757,
+      "country_code":"FR"
+   },
+   {
+      "name":"Saint-Jean-en-Royans",
+      "icao_code":"LFKE",
+      "lat":45.027802,
+      "lng":5.31,
+      "country_code":"FR"
+   },
+   {
+      "name":"Saint-Junien",
+      "icao_code":"LFBJ",
+      "lat":45.903301,
+      "lng":0.92,
+      "country_code":"FR"
+   },
+   {
+      "name":"Saint-Martin-de-Londres",
+      "icao_code":"LFNL",
+      "lat":43.8008,
+      "lng":3.7825,
+      "country_code":"FR"
+   },
+   {
+      "name":"Saint-Omer - Wizernes",
+      "icao_code":"LFQN",
+      "lat":50.729444,
+      "lng":2.235833,
+      "country_code":"FR"
+   },
+   {
+      "name":"Saint-Quentin - Roupy",
+      "icao_code":"LFOW",
+      "lat":49.816898,
+      "lng":3.20667,
+      "country_code":"FR"
+   },
+   {
+      "name":"Saint-Rambert-d'Albon",
+      "icao_code":"LFLR",
+      "lat":45.2561,
+      "lng":4.82583,
+      "country_code":"FR"
+   },
+   {
+      "name":"Saint Sulpice des Landes",
+      "icao_code":"LFSS",
+      "lat":47.791667,
+      "lng":-1.643611,
+      "country_code":"FR"
+   },
+   {
+      "name":"Saint-Valery - Vittefleur",
+      "icao_code":"LFOS",
+      "lat":49.836102,
+      "lng":0.655,
+      "country_code":"FR"
+   },
+   {
+      "name":"Saint-Yan Airport",
+      "iata_code":"SYT",
+      "icao_code":"LFLN",
+      "lat":46.412498,
+      "lng":4.01326,
+      "country_code":"FR"
+   },
+   {
+      "name":"Saintes-Thenac",
+      "icao_code":"LFXB",
+      "lat":45.7019,
+      "lng":-0.636111,
+      "country_code":"FR"
+   },
+   {
+      "name":"Salamanca Airport",
+      "iata_code":"SLM",
+      "icao_code":"LESA",
+      "lat":40.952054,
+      "lng":-5.501975,
+      "country_code":"ES"
+   },
+   {
+      "name":"Sallanches - Mont-Blanc",
+      "iata_code":"XSN",
+      "icao_code":"LFHZ",
+      "lat":45.953899,
+      "lng":6.63917,
+      "country_code":"FR"
+   },
+   {
+      "name":"Salon",
+      "icao_code":"LFMY",
+      "lat":43.6064,
+      "lng":5.10925,
+      "country_code":"FR"
    },
    {
       "name":"San Domino Island Heliport",
@@ -878,12 +4598,160 @@
       "country_code":"IT"
    },
    {
+      "name":"San Enrique",
+      "icao_code":"LESE",
+      "lat":38.730801,
+      "lng":-4.31306,
+      "country_code":"ES"
+   },
+   {
+      "name":"Murcia-San Javier Airport",
+      "iata_code":"MJV",
+      "icao_code":"LELC",
+      "lat":37.775062,
+      "lng":-0.814606,
+      "country_code":"ES"
+   },
+   {
+      "name":"Real Aeroclub de Mahon Menorca",
+      "icao_code":"LESL",
+      "lat":39.862202,
+      "lng":4.25833,
+      "country_code":"ES"
+   },
+   {
+      "name":"San Sebastián De La Gomera Heliport",
+      "icao_code":"GCGO",
+      "lat":28.0972,
+      "lng":-17.1024,
+      "country_code":"ES"
+   },
+   {
+      "name":"Sangüesa Airport",
+      "icao_code":"LESG",
+      "lat":42.565601,
+      "lng":-1.28472,
+      "country_code":"ES"
+   },
+   {
+      "name":"Sant Martí De Sescorts Heliport",
+      "icao_code":"LETM",
+      "lat":42.015499,
+      "lng":2.31925,
+      "country_code":"ES"
+   },
+   {
+      "name":"Santa Cilia De Jaca",
+      "icao_code":"LECI",
+      "lat":42.569199,
+      "lng":-0.727778,
+      "country_code":"ES"
+   },
+   {
+      "name":"Santo Tome Del Puerto",
+      "icao_code":"LETP",
+      "lat":41.204201,
+      "lng":-3.59472,
+      "country_code":"ES"
+   },
+   {
+      "name":"Sarlat-Domme",
+      "icao_code":"LFDS",
+      "lat":44.793301,
+      "lng":1.24472,
+      "country_code":"FR"
+   },
+   {
+      "name":"Sarre-Union",
+      "icao_code":"LFQU",
+      "lat":48.951401,
+      "lng":7.07778,
+      "country_code":"FR"
+   },
+   {
+      "name":"Sarrebourg-Buhl",
+      "icao_code":"LFGT",
+      "lat":48.717087,
+      "lng":7.074805,
+      "country_code":"FR"
+   },
+   {
+      "name":"Sarreguemines-Neunkirch",
+      "icao_code":"LFGU",
+      "lat":49.128101,
+      "lng":7.10833,
+      "country_code":"FR"
+   },
+   {
       "name":"Sarzana / Luni",
       "iata_code":"QLP",
       "icao_code":"LIQW",
       "lat":44.088001,
       "lng":9.98795,
       "country_code":"IT"
+   },
+   {
+      "name":"Saulieu-Liernais",
+      "icao_code":"LFEW",
+      "lat":47.239399,
+      "lng":4.26583,
+      "country_code":"FR"
+   },
+   {
+      "name":"Saumur - Saint-Florent",
+      "icao_code":"LFOD",
+      "lat":47.256802,
+      "lng":-0.115142,
+      "country_code":"FR"
+   },
+   {
+      "name":"Saverne-Steinbourg",
+      "icao_code":"LFQY",
+      "lat":48.753392,
+      "lng":7.425402,
+      "country_code":"FR"
+   },
+   {
+      "name":"Sedan-Douzy",
+      "icao_code":"LFSJ",
+      "lat":49.659698,
+      "lng":5.03778,
+      "country_code":"FR"
+   },
+   {
+      "name":"Semur-en-Auxois",
+      "icao_code":"LFGQ",
+      "lat":47.481899,
+      "lng":4.34417,
+      "country_code":"FR"
+   },
+   {
+      "name":"Serres - Labatie-Montsaleon",
+      "icao_code":"LFTM",
+      "lat":44.458302,
+      "lng":5.72833,
+      "country_code":"FR"
+   },
+   {
+      "name":"Servei D'Evacuació Del Circuit De Catalunya Heliport",
+      "icao_code":"LERV",
+      "lat":41.571999,
+      "lng":2.26203,
+      "country_code":"ES"
+   },
+   {
+      "name":"Servei Generals Del Circuit De Catalunya Heliport",
+      "icao_code":"LETA",
+      "lat":41.574001,
+      "lng":2.25716,
+      "country_code":"ES"
+   },
+   {
+      "name":"Sezanne - Saint-Remy",
+      "icao_code":"LFFZ",
+      "lat":48.710602,
+      "lng":3.76417,
+      "country_code":"FR"
    },
    {
       "name":"Ampugnano Airport",
@@ -902,6 +4770,134 @@
       "country_code":"IT"
    },
    {
+      "name":"Soissons-Courmelles",
+      "icao_code":"LFJS",
+      "lat":49.345798,
+      "lng":3.28417,
+      "country_code":"FR"
+   },
+   {
+      "name":"Solenzara Air Base",
+      "iata_code":"SOZ",
+      "icao_code":"LFKS",
+      "lat":41.9244,
+      "lng":9.406,
+      "country_code":"FR"
+   },
+   {
+      "name":"Sollieres-Sardieres",
+      "icao_code":"LFKD",
+      "lat":45.256401,
+      "lng":6.80139,
+      "country_code":"FR"
+   },
+   {
+      "name":"Sotos",
+      "icao_code":"LESS",
+      "lat":40.204201,
+      "lng":-2.14389,
+      "country_code":"ES"
+   },
+   {
+      "name":"Soulac-sur-Mer",
+      "icao_code":"LFDK",
+      "lat":45.494999,
+      "lng":-1.08222,
+      "country_code":"FR"
+   },
+   {
+      "name":"Saint-Andre-de-l'Eure Airport",
+      "icao_code":"LFFD",
+      "lat":48.898602,
+      "lng":1.25056,
+      "country_code":"FR"
+   },
+   {
+      "name":"Dieppe - Saint-Aubin",
+      "iata_code":"DPE",
+      "icao_code":"LFAB",
+      "lat":49.8825,
+      "lng":1.08528,
+      "country_code":"FR"
+   },
+   {
+      "name":"Saint-Chamond - L'Horme",
+      "icao_code":"LFHG",
+      "lat":45.493099,
+      "lng":4.53556,
+      "country_code":"FR"
+   },
+   {
+      "name":"Saint-Die - Remomeix",
+      "icao_code":"LFGY",
+      "lat":48.2672,
+      "lng":7.00861,
+      "country_code":"FR"
+   },
+   {
+      "name":"Saint-Florentin - Cheu",
+      "icao_code":"LFGP",
+      "lat":47.98019,
+      "lng":3.775583,
+      "country_code":"FR"
+   },
+   {
+      "name":"Saint-Galmier",
+      "icao_code":"LFKM",
+      "lat":45.607201,
+      "lng":4.30583,
+      "country_code":"FR"
+   },
+   {
+      "name":"Saint-Gaudens - Montrejeau",
+      "icao_code":"LFIM",
+      "lat":43.108601,
+      "lng":0.620278,
+      "country_code":"FR"
+   },
+   {
+      "name":"Saint-Jean-d'Angely - Saint-Denis-du-Pin",
+      "icao_code":"LFIY",
+      "lat":45.9664,
+      "lng":-0.525278,
+      "country_code":"FR"
+   },
+   {
+      "name":"Saint-Jean-d'Avelanne",
+      "icao_code":"LFKH",
+      "lat":45.516701,
+      "lng":5.68056,
+      "country_code":"FR"
+   },
+   {
+      "name":"Saint-Pierre-d'Oleron",
+      "icao_code":"LFDP",
+      "lat":45.959202,
+      "lng":-1.31611,
+      "country_code":"FR"
+   },
+   {
+      "name":"Sainte-Foy-la-Grande",
+      "icao_code":"LFDF",
+      "lat":44.8536,
+      "lng":0.176667,
+      "country_code":"FR"
+   },
+   {
+      "name":"Sainte-Leocadie",
+      "icao_code":"LFYS",
+      "lat":42.447201,
+      "lng":2.01083,
+      "country_code":"FR"
+   },
+   {
+      "name":"Strasbourg-Neuhof",
+      "icao_code":"LFGC",
+      "lat":48.554401,
+      "lng":7.77806,
+      "country_code":"FR"
+   },
+   {
       "name":"Taranto-Grottaglie Airport",
       "iata_code":"TAR",
       "icao_code":"LIBG",
@@ -910,11 +4906,76 @@
       "country_code":"IT"
    },
    {
+      "name":"Tarbes-Laloubere",
+      "icao_code":"LFDT",
+      "lat":43.216099,
+      "lng":0.078611,
+      "country_code":"FR"
+   },
+   {
+      "name":"Teruel Airport",
+      "iata_code":"TEV",
+      "icao_code":"LETL",
+      "lat":40.409481,
+      "lng":-1.217913,
+      "country_code":"ES"
+   },
+   {
+      "name":"Thouars",
+      "icao_code":"LFCT",
+      "lat":46.961899,
+      "lng":-0.152778,
+      "country_code":"FR"
+   },
+   {
+      "name":"Til-Chatel",
+      "icao_code":"LFET",
+      "lat":47.547501,
+      "lng":5.21194,
+      "country_code":"FR"
+   },
+   {
+      "name":"Tirviá Heliport",
+      "icao_code":"LETV",
+      "lat":42.518799,
+      "lng":1.24231,
+      "country_code":"ES"
+   },
+   {
+      "name":"Tomás Fernández Espada Airport",
+      "icao_code":"LETF",
+      "lat":36.871793,
+      "lng":-5.648775,
+      "country_code":"ES"
+   },
+   {
       "name":"Turin-Aeritalia Airport",
       "icao_code":"LIMA",
       "lat":45.086399,
       "lng":7.60337,
       "country_code":"IT"
+   },
+   {
+      "name":"Torozos",
+      "icao_code":"LETZ",
+      "lat":41.785301,
+      "lng":-4.86473,
+      "country_code":"ES"
+   },
+   {
+      "name":"Torre Picasso Heliport",
+      "icao_code":"LETS",
+      "lat":40.449829,
+      "lng":-3.693144,
+      "country_code":"ES"
+   },
+   {
+      "name":"Madrid-Torrejon Airport",
+      "iata_code":"TOJ",
+      "icao_code":"LETO",
+      "lat":40.496717,
+      "lng":-3.44587,
+      "country_code":"ES"
    },
    {
       "name":"Tortoli Airport",
@@ -925,6 +4986,85 @@
       "country_code":"IT"
    },
    {
+      "name":"Toulon Navy Air Base",
+      "icao_code":"LFTR",
+      "lat":43.082699,
+      "lng":5.93382,
+      "country_code":"FR"
+   },
+   {
+      "name":"Toulouse - Bourg-Saint-Bernard",
+      "icao_code":"LFIT",
+      "lat":43.612202,
+      "lng":1.72528,
+      "country_code":"FR"
+   },
+   {
+      "name":"Toulouse-Francazal",
+      "icao_code":"LFBF",
+      "lat":43.545601,
+      "lng":1.3675,
+      "country_code":"FR"
+   },
+   {
+      "name":"Toulouse-Lasbordes",
+      "icao_code":"LFCL",
+      "lat":43.587832,
+      "lng":1.498507,
+      "country_code":"FR"
+   },
+   {
+      "name":"Le Touquet - Cote d'Opale Airport",
+      "iata_code":"LTQ",
+      "icao_code":"LFAT",
+      "lat":50.516518,
+      "lng":1.62275,
+      "country_code":"FR"
+   },
+   {
+      "name":"La Tour-du Pin - Cessieu",
+      "icao_code":"LFKP",
+      "lat":45.560001,
+      "lng":5.38472,
+      "country_code":"FR"
+   },
+   {
+      "name":"Tournus-Cuisery",
+      "icao_code":"LFFX",
+      "lat":46.562801,
+      "lng":4.97667,
+      "country_code":"FR"
+   },
+   {
+      "name":"Tours-Le Louroux",
+      "icao_code":"LFJT",
+      "lat":47.150002,
+      "lng":0.712778,
+      "country_code":"FR"
+   },
+   {
+      "name":"Tours-Sorigny",
+      "icao_code":"LFEN",
+      "lat":47.267502,
+      "lng":0.701111,
+      "country_code":"FR"
+   },
+   {
+      "name":"Toussus-le-Noble Airport",
+      "iata_code":"TNF",
+      "icao_code":"LFPN",
+      "lat":48.7519,
+      "lng":2.10619,
+      "country_code":"FR"
+   },
+   {
+      "name":"Tremp Heliport",
+      "icao_code":"LETR",
+      "lat":42.169399,
+      "lng":0.892778,
+      "country_code":"ES"
+   },
+   {
       "name":"Udine-Campoformido Airport",
       "iata_code":"UDN",
       "icao_code":"LIPD",
@@ -933,11 +5073,55 @@
       "country_code":"IT"
    },
    {
+      "name":"Ullastrell-Teresa Vilá Heliport",
+      "icao_code":"LEUL",
+      "lat":41.5243,
+      "lng":1.97158,
+      "country_code":"ES"
+   },
+   {
+      "name":"Uzes",
+      "icao_code":"LFNU",
+      "lat":44.084702,
+      "lng":4.39528,
+      "country_code":"FR"
+   },
+   {
+      "name":"Avranches - Le Val-Saint-Pere",
+      "icao_code":"LFRW",
+      "lat":48.661701,
+      "lng":-1.40444,
+      "country_code":"FR"
+   },
+   {
       "name":"Valbrembo Airport",
       "icao_code":"LILV",
       "lat":45.720798,
       "lng":9.59347,
       "country_code":"IT"
+   },
+   {
+      "name":"Valenciennes-Denain Airport",
+      "iata_code":"XVS",
+      "icao_code":"LFAV",
+      "lat":50.325802,
+      "lng":3.46126,
+      "country_code":"FR"
+   },
+   {
+      "name":"Valreas-Visan",
+      "icao_code":"LFNV",
+      "lat":44.336899,
+      "lng":4.90806,
+      "country_code":"FR"
+   },
+   {
+      "name":"Vannes-Meucon Airport",
+      "iata_code":"VNE",
+      "icao_code":"LFRV",
+      "lat":47.723301,
+      "lng":-2.71856,
+      "country_code":"FR"
    },
    {
       "name":"Vares-Venegono Airport",
@@ -948,11 +5132,41 @@
       "country_code":"IT"
    },
    {
+      "name":"Vauville",
+      "icao_code":"LFAU",
+      "lat":49.624199,
+      "lng":-1.82917,
+      "country_code":"FR"
+   },
+   {
+      "name":"Vendays-Montalivet",
+      "icao_code":"LFIV",
+      "lat":45.3806,
+      "lng":-1.11583,
+      "country_code":"FR"
+   },
+   {
+      "name":"Verdun-Sommedieue",
+      "iata_code":"XVN",
+      "icao_code":"LFGW",
+      "lat":49.122398,
+      "lng":5.46905,
+      "country_code":"FR"
+   },
+   {
       "name":"Vergiate Airfield",
       "icao_code":"LILG",
       "lat":45.7132,
       "lng":8.69912,
       "country_code":"IT"
+   },
+   {
+      "name":"Vesoul-Frotey",
+      "iata_code":"XVO",
+      "icao_code":"LFQW",
+      "lat":47.6376,
+      "lng":6.20392,
+      "country_code":"FR"
    },
    {
       "name":"Vibo Valentia Heliport",
@@ -962,11 +5176,104 @@
       "country_code":"IT"
    },
    {
+      "name":"Vichy - Charmeil Airport",
+      "iata_code":"VHY",
+      "icao_code":"LFLV",
+      "lat":46.169701,
+      "lng":3.40374,
+      "country_code":"FR"
+   },
+   {
+      "name":"Vielha Heliport",
+      "icao_code":"LEVH",
+      "lat":42.704399,
+      "lng":0.796946,
+      "country_code":"ES"
+   },
+   {
+      "name":"Vienne-Reventin",
+      "icao_code":"LFHH",
+      "lat":45.464199,
+      "lng":4.82944,
+      "country_code":"FR"
+   },
+   {
+      "name":"Vierzon-Mereau",
+      "icao_code":"LFFV",
+      "lat":47.194698,
+      "lng":2.06667,
+      "country_code":"FR"
+   },
+   {
       "name":"Vieste Heliport",
       "iata_code":"VIF",
       "lat":41.8725,
       "lng":16.168735,
       "country_code":"IT"
+   },
+   {
+      "name":"Vilaller Heliport",
+      "icao_code":"LEVR",
+      "lat":42.304699,
+      "lng":0.713056,
+      "country_code":"ES"
+   },
+   {
+      "name":"Velizy - Villacoublay Air Base",
+      "iata_code":"VIY",
+      "icao_code":"LFPV",
+      "lat":48.774167,
+      "lng":2.191667,
+      "country_code":"FR"
+   },
+   {
+      "name":"Villaframil",
+      "icao_code":"LEVF",
+      "lat":43.552502,
+      "lng":-7.08778,
+      "country_code":"ES"
+   },
+   {
+      "name":"Villefranche-de-Rouergue",
+      "icao_code":"LFCV",
+      "lat":44.369999,
+      "lng":2.02806,
+      "country_code":"FR"
+   },
+   {
+      "name":"Villefranche - Tarare Airport",
+      "icao_code":"LFHV",
+      "lat":45.919983,
+      "lng":4.634931,
+      "country_code":"FR"
+   },
+   {
+      "name":"Villeneuve-sur-Lot",
+      "icao_code":"LFCW",
+      "lat":44.3969,
+      "lng":0.758889,
+      "country_code":"FR"
+   },
+   {
+      "name":"Villerupt",
+      "icao_code":"LFAW",
+      "lat":49.4114,
+      "lng":5.89056,
+      "country_code":"FR"
+   },
+   {
+      "name":"Vinon",
+      "icao_code":"LFNF",
+      "lat":43.737801,
+      "lng":5.78417,
+      "country_code":"FR"
+   },
+   {
+      "name":"Viso del Marqués Airport",
+      "icao_code":"LEVI",
+      "lat":38.5056,
+      "lng":-3.42615,
+      "country_code":"ES"
    },
    {
       "name":"Viterbo",
@@ -976,10 +5283,88 @@
       "country_code":"IT"
    },
    {
+      "name":"Vitry-en-Artois",
+      "icao_code":"LFQS",
+      "lat":50.338299,
+      "lng":2.99333,
+      "country_code":"FR"
+   },
+   {
+      "name":"Vitry-le-Francois - Vauclerc",
+      "icao_code":"LFSK",
+      "lat":48.7033,
+      "lng":4.68444,
+      "country_code":"FR"
+   },
+   {
       "name":"Voghera-Rivanazzano Airport",
       "icao_code":"LILH",
       "lat":44.952,
       "lng":9.01653,
       "country_code":"IT"
+   },
+   {
+      "name":"Yvetot-Baons Le Comte Airfield",
+      "icao_code":"LFYV",
+      "lat":49.638411,
+      "lng":0.730337,
+      "country_code":"FR"
+   },
+   {
+      "name":"Abbeville Airport",
+      "iata_code":"XAB",
+      "icao_code":"LFOI",
+      "lat":50.143501,
+      "lng":1.831891,
+      "country_code":"FR"
+   },
+   {
+      "name":"Base Aérea de Colmenar Viejo",
+      "icao_code":"LECV",
+      "lat":40.697296,
+      "lng":-3.763255,
+      "country_code":"ES"
+   },
+   {
+      "name":"Base Aérea de El Copero",
+      "icao_code":"LEEC",
+      "lat":37.313164,
+      "lng":-5.999058,
+      "country_code":"ES"
+   },
+   {
+      "name":"Aeródromo de Guadalupe",
+      "icao_code":"LEGU",
+      "lat":39.345699,
+      "lng":-5.19735,
+      "country_code":"ES"
+   },
+   {
+      "name":"Aeródromo de Linares",
+      "icao_code":"LELI",
+      "lat":38.133211,
+      "lng":-3.642554,
+      "country_code":"ES"
+   },
+   {
+      "name":"Aeródromo de los Oteros",
+      "icao_code":"LEOS",
+      "lat":42.333056,
+      "lng":-5.451944,
+      "country_code":"ES"
+   },
+   {
+      "name":"Aeródromo Requena El Rebollar",
+      "icao_code":"LERE",
+      "lat":39.474701,
+      "lng":-1.03444,
+      "country_code":"ES"
+   },
+   {
+      "name":"Aeródromo Virgen de La Estrella",
+      "icao_code":"LEVE",
+      "lat":38.420556,
+      "lng":-6.356944,
+      "country_code":"ES"
    }
 ]

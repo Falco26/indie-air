@@ -6,17 +6,23 @@ import { EnvironmentTwoTone, SearchOutlined } from "@ant-design/icons"
 import { Input } from "../Input"
 import { DatePicker } from "../DatePicker"
 import { Image } from "antd"
-import { useSelector } from "react-redux"
-import { selectArrival, selectDeparture } from "../../features/search/selectors"
+import { InputNumber } from "antd"
 
 type Props = {
   datePicker?: boolean
   input?: boolean
   imgLogo?: boolean
   buttonText?: string
+  passengers?: boolean
 }
 
-export const Header = ({ imgLogo, input, datePicker, buttonText }: Props) => {
+export const Header = ({
+  imgLogo,
+  input,
+  datePicker,
+  buttonText,
+  passengers,
+}: Props) => {
   return (
     <StyledHeader>
       {imgLogo && (
@@ -35,6 +41,14 @@ export const Header = ({ imgLogo, input, datePicker, buttonText }: Props) => {
         )}
 
         {datePicker && <DatePicker size="middle" />}
+        {passengers && (
+          <InputNumber
+            placeholder="Passengers"
+            min={1}
+            max={15}
+            style={{ alignItems: "center", display: "flex" }}
+          />
+        )}
 
         <IconButton
           iconName={<SearchOutlined />}

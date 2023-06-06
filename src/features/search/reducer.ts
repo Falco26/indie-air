@@ -1,3 +1,4 @@
+import { AirportDto } from "../../API/types"
 import { SearchState } from "./model"
 import { PayloadAction, createAction, createSlice } from "@reduxjs/toolkit"
 
@@ -10,7 +11,7 @@ const searchSlice = createSlice({
   name: "cart",
   initialState,
   reducers: {
-    insertDepart: (state, { payload }: PayloadAction<string>) => {
+    insertDepart: (state, { payload }: PayloadAction<AirportDto>) => {
       state.departure === null
         ? (state.departure = payload)
         : (state.arrival = payload)
